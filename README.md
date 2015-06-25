@@ -123,6 +123,11 @@ Source: [The Electronic Frontier Foundation](https://www.eff.org/deeplinks/2013/
 
 ### Iraq/Afghanistan
 
+* As of 2015, the [Iraq Body Count](https://www.iraqbodycount.org/) has recorded more than 140,000 violent civilian deaths in Iraq as a result of the invasion.
+In an initial report covering the first two years of the war, the IBC reports that US air strikes caused the largest share of civilian casualties at 37%.
+Many analysts debate these numbers, saying they are either too small or too large.
+Wikipedia has a [pretty good summary](https://en.wikipedia.org/wiki/Casualties_of_the_Iraq_War) of the various body counts and their methodology.
+
 * In 2004, the US bombed a wedding party in Mukaradeeb, Iraq.
 42 civilians were killed.
 Again in 2008, the US bombed a wedding party in Deh Bala, Afghanistan.
@@ -135,18 +140,23 @@ Source: [Wikipedia (Mukaradeeb)](https://en.wikipedia.org/wiki/Mukaradeeb_weddin
 One employee is convicted of murder, and three others of manslaughter.
 Source: [The Guardian](http://www.theguardian.com/us-news/2015/apr/13/former-blackwater-guards-sentencing-baghdad-massacre) and [Wikipedia](https://en.wikipedia.org/wiki/Nisour_Square_massacre)
 
-* A small team of US soldiers admit to killing Afghan civilians for sport.
+* A small team of US soldiers plead guilty to killing Afghan civilians for sport.
 Source: [The Guardian](http://www.theguardian.com/world/2011/mar/23/us-soldier-admits-killing-afghans)
 
-* In 2010, WikiLeaks released the Afghan War Documents, a collection of classified military operations in Afghanistan.
+* In 2010, WikiLeaks released the [Afghan War Diary](https://www.wikileaks.org/wiki/Afghan_War_Diary,_2004-2010), a collection of classified military operations in Afghanistan.
 These reports detail a number of previously unknown civilian casualties caused by the wrecklessness of coalition troops and paramilitary forces.
 The Pentagon criticized WikiLeaks for releasing the documents without proper redaction.
 But WikiLeaks contacted the Pentagon asking for help redacting the documents and the Pentagon refused.
 Wikipedia has an [excellent summary](https://en.wikipedia.org/wiki/Afghan_War_documents_leak) of information learned from the leaks.
 
-* In 2010, WikiLeaks released the Iraq War Documents, a collection of classified military operations in Iraq.
-These documents describe a number of abuses by both American (e.g. under reporting civilian casualties, counting journalists as enemy combatants, killings by civilian contractors) and Iraqi security forces (e.g. torturing of prisoners, summary executions).
+In 2010, WikiLeaks released the [Iraq War Logs](https://wikileaks.org/irq/), a collection of classified military operations in Iraq.
+These documents describe a number of abuses by both American forces (e.g. under reporting civilian casualties, counting journalists as enemy combatants, killings by civilian contractors) and Iraqi security forces (e.g. torturing of prisoners, summary executions).
 Wikipedia has an [excellent summary](https://en.wikipedia.org/wiki/Iraq_War_documents_leak) of information learned from the leaks, including detailed sourcing.
+
+Both series of leaks were provided by [Specialist Manning](https://en.wikipedia.org/wiki/Chelsea_Manning), an intelligence analyst for the US Army.
+Manning was sentenced to 35 years in prison.
+Then Assistant Secretary of State [Philip Crowley](https://en.wikipedia.org/wiki/Philip_J._Crowley) accuses the US military of abusing Manning while in detention and is forced to resign his post.
+Wikipedia has a [detailed summary](https://en.wikipedia.org/wiki/Chelsea_Manning) of Manning's case.
 
 * The ADE651 claims to be a device for detecting explosives and drugs, but it is an obvious fraud whose design is based on a $5 gag gift.
 The product brochure claims the device uses "nuclear quadropole resonance" to detect controlled substances, but the device contains no electronics and doesn't even take a battery.
@@ -250,14 +260,23 @@ http://thatjayjustice.tumblr.com/post/117573528794/fuckyeahmarxismleninism-this-
 
 ### Police and race
 
-* A DEA agents claims he was told not to enforce drug laws in rich white neighborhoods.
+* According to former special agent for the DEA Mathew Fogg, DEA agents were told not to enforce drug laws in rich white neighborhoods.
+Statistics show that drugs are just as common in these neighborhoods, but Fogg's boss explained that enforcing the drug laws there would get the DEA in political trouble.
 Source: [Ben Norton's blog](http://bennorton.com/dea-agent-we-were-told-not-to-enforce-drug-laws-in-rich-white-areas/)
 
 * Black teenagers are 21 times more likely to be shot and killed by police officers than white teenagers.
 Source: [ProPublica](http://www.propublica.org/article/deadly-force-in-black-and-white)
 
 * [video](http://tmz.vo.llnwd.net/o28/2014-12/22/0_dmal6jtk_0_glcv599p_2.mp4)
-A room full of police sing horrific song about the Mike Brown shooting.
+At a police conference, a room full of officers sing a song making fun of Michael Brown and his supporters.
+Brown was recently shot by police, setting off a string of protests.
+
+* [Michael Brown memorial tree cut down in Ferguson park less than 24 hours after dedication](http://www.rawstory.com/2015/04/michael-brown-memorial-tree-cut-down-in-ferguson-park-less-than-24-hours-after-dedication/)
+
+* Family and friends create a memorial for Michael Brown.
+A police office lets his police dog urinate on the memorial;
+then officers "trample" the memorial with their cars.
+Source: [Mother Jones](http://www.motherjones.com/politics/2014/08/ferguson-st-louis-police-tactics-dogs-michael-brown)
 
 * Police officer sends text message saying:
 
@@ -268,13 +287,6 @@ A room full of police sing horrific song about the Mike Brown shooting.
     Source: [The Advocate](http://theadvocate.com/home/10181682-123/brpd-cop-accused-of-sending)
 
 * [Department Of Justice Orders Ferguson Police To Stop Wearing 'I Am Darren Wilson' Bracelets](http://thinkprogress.org/justice/2014/09/27/3573025/darren-wilson-bracelets/)
-
-* [Michael Brown memorial tree cut down in Ferguson park less than 24 hours after dedication](http://www.rawstory.com/2015/04/michael-brown-memorial-tree-cut-down-in-ferguson-park-less-than-24-hours-after-dedication/)
-
-* Family and friends create a memorial for Michael Brown.
-A police office lets his police dog urinate on the memorial;
-then officers "trample" the memorial with their cars.
-Source: [Mother Jones](http://www.motherjones.com/politics/2014/08/ferguson-st-louis-police-tactics-dogs-michael-brown)
 
 <!--
 * [DEA Steals $16,000 In Cash From Young Black Man, Because He Must Be A Drug Dealer](http://www.huffingtonpost.com/2015/05/07/dea-asset-forfeiture-joseph-rivers_n_7231744.html)
