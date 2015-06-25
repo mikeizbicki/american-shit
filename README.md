@@ -101,10 +101,10 @@ Source: [The Intercept](https://firstlook.org/theintercept/2014/11/18/media-outl
 
 * A 13 year old Yemeni boy says on TV:
 
-    > A lot of the kids in this area wake up from sleeping because of nightmares from them and some now have mental problems.
+    > A lot of the kids in this area wake up from sleeping because of nightmares from [the drones] and some now have mental problems.
     > They turned our area into hell and continuous horror, day and night, we even dream of them in our sleep.
 
-    Two months later, he is killed in a drone attack.
+    Two months later, the boy is killed in a drone attack.
     Source: [The Guardian](http://www.theguardian.com/world/2015/feb/10/drones-dream-yemeni-teenager-mohammed-tuaiman-death-cia-strike?CMP=share_btn_tw)
 
 * [video](https://www.youtube.com/watch?v=JzYbY1PmscM) Obama tells jokes about drone strikes.
@@ -149,14 +149,14 @@ The Pentagon criticized WikiLeaks for releasing the documents without proper red
 But WikiLeaks contacted the Pentagon asking for help redacting the documents and the Pentagon refused.
 Wikipedia has an [excellent summary](https://en.wikipedia.org/wiki/Afghan_War_documents_leak) of information learned from the leaks.
 
-In 2010, WikiLeaks released the [Iraq War Logs](https://wikileaks.org/irq/), a collection of classified military operations in Iraq.
-These documents describe a number of abuses by both American forces (e.g. under reporting civilian casualties, counting journalists as enemy combatants, killings by civilian contractors) and Iraqi security forces (e.g. torturing of prisoners, summary executions).
-Wikipedia has an [excellent summary](https://en.wikipedia.org/wiki/Iraq_War_documents_leak) of information learned from the leaks, including detailed sourcing.
+    In 2010, WikiLeaks released the [Iraq War Logs](https://wikileaks.org/irq/), a collection of classified military operations in Iraq.
+    These documents describe a number of abuses by both American forces (e.g. under reporting civilian casualties, counting journalists as enemy combatants, killings by civilian contractors) and Iraqi security forces (e.g. torturing of prisoners, summary executions).
+    Wikipedia has an [excellent summary](https://en.wikipedia.org/wiki/Iraq_War_documents_leak) of information learned from the leaks, including detailed sourcing.
 
-Both series of leaks were provided by [Specialist Manning](https://en.wikipedia.org/wiki/Chelsea_Manning), an intelligence analyst for the US Army.
-Manning was sentenced to 35 years in prison.
-Then Assistant Secretary of State [Philip Crowley](https://en.wikipedia.org/wiki/Philip_J._Crowley) accuses the US military of abusing Manning while in detention and is forced to resign his post.
-Wikipedia has a [detailed summary](https://en.wikipedia.org/wiki/Chelsea_Manning) of Manning's case.
+    Both series of leaks were provided by [Specialist Manning](https://en.wikipedia.org/wiki/Chelsea_Manning), an intelligence analyst for the US Army.
+    Manning was sentenced to 35 years in prison.
+    Then Assistant Secretary of State [Philip Crowley](https://en.wikipedia.org/wiki/Philip_J._Crowley) accuses the US military of abusing Manning while in detention and is forced to resign his post.
+    Wikipedia has a [detailed summary](https://en.wikipedia.org/wiki/Chelsea_Manning) of Manning's case.
 
 * The ADE651 claims to be a device for detecting explosives and drugs, but it is an obvious fraud whose design is based on a $5 gag gift.
 The product brochure claims the device uses "nuclear quadropole resonance" to detect controlled substances, but the device contains no electronics and doesn't even take a battery.
