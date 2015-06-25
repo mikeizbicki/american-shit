@@ -1,8 +1,9 @@
 # America's Shit
 
 The United States has many problems.
-You are reading my personal collection of primary and secondary sources documenting these problems.
-If you want to contribute (by fixing an error or adding new sources), please [create an issue]() or a pull request.
+This is my personal collection of primary and secondary sources documenting these problems.
+
+If you want to contribute (by fixing an error or adding new sources), please [create an issue](https://github.com/mikeizbicki/bad-america/issues/new) or a pull request.
 
 <!----------------------------------------------------------------------------->
 
@@ -13,7 +14,6 @@ If you want to contribute (by fixing an error or adding new sources), please [cr
     * [Drone strikes](#drone-strikes)
     * [Iraq/Afghanistan](#iraqafghanistan)
     * [South America](#south-america)
-
 * [Police](#police)
     * [Police brutality](#police-brutality)
         * [Selected incidents](#selected-incidents)
@@ -25,8 +25,6 @@ If you want to contribute (by fixing an error or adding new sources), please [cr
         * [Prison conditions are awful](#prison-conditions-are-awful)
         * [Chicago's Homan Square facility](#homan-square)
     * [Militarization of the police](#militarization-of-the-police)
-
-
 * [Government surveillance](#government-surveillance)
     * [Important people]()
         * [Lies and half-truth told by government officials](#lies-and-half-truths-told-by-government-officials)
@@ -36,7 +34,6 @@ If you want to contribute (by fixing an error or adding new sources), please [cr
     * [Revealed abuses](#revealed-abuses)
     * [Revealed capabilities](#spying-capabilities)
     * [Positive outcomes of whistleblowing](#positive-outcomes-of-whistleblowing)
-
 * [Corpratism](#corpratism)
     * [Poor treatment of the homeless](#poor-treatment-of-the-homeless)
 
@@ -320,14 +317,10 @@ Source: [Filming Cops](http://filmingcops.com/cop-shoots-innocent-mother-to-deat
 
 * [Woman says that police in Ferguson shot her in the head while she was leaving a rally for Michael Brown. Now, the bullet that doctors removed from her head has vanished, and police claim she was shot in a drive-by shooting](http://www.rawstory.com/rs/2014/11/ferguson-protester-no-one-can-find-the-bullet-police-say-they-didnt-fire-into-my-head/)
 
-<!------------------------------------>
-
 ### Eric Garner
 
 [Man Imprisoned After Filming Eric Garner’s Death, Refusing to Eat, Rat Poison Found in Jail Food](http://thefreethoughtproject.com/man-jailed-filming-eric-garners-death-eat-rat-poison-prisons-food/)
--->
-<!------------------------------------>
-<!--
+
 ### Entrapment
 
 https://firstlook.org/theintercept/2015/02/26/fbi-manufacture-plots-terrorism-isis-grave-threats/
@@ -403,9 +396,9 @@ Source: [The Washington Post](http://www.washingtonpost.com/blogs/wonkblog/wp/20
 These actions, which include bringing AR-15 assault rifles to peaceful protests "aren't necessarily intended to provoke, but have that effect."
 Source: [UC Berkeley](http://newscenter.berkeley.edu/2014/08/22/berkeley-researchers-find-police-often-incite-violence-at-protests/)
 
-* In 2013, the country of Iceland had it's first every police shooting.
-The country is in shock and goes into mourning.
-(Compare this to the American reaction to a police shooting.)
+* In 2013, the country of Iceland had it's first ever police shooting.
+The country goes into mourning.
+Compare this to the American reaction to a police shooting.
 Source: [Public Radio International](http://www.pri.org/stories/2013-12-03/iceland-grieves-after-police-kill-man-first-time-its-history)
 
 <!--
