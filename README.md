@@ -123,12 +123,38 @@ Source: [The Electronic Frontier Foundation](https://www.eff.org/deeplinks/2013/
 
 ### Iraq/Afghanistan
 
+* In 2004, the US bombed a wedding party in Mukaradeeb, Iraq.
+42 civilians were killed.
+Again in 2008, the US bombed a wedding party in Deh Bala, Afghanistan.
+47 civilians were killed.
+In both cases, the US military claims these were not wedding parties, but militant gatherings.
+Independent investigations, however, have proven the US military wrong.
+Source: [Wikipedia (Mukaradeeb)](https://en.wikipedia.org/wiki/Mukaradeeb_wedding_party_massacre), [Wikipedia (Deh Bala)](https://en.wikipedia.org/wiki/Deh_Bala_wedding_party_airstrike)
+
 * In 2007, Blackwater employees kill 17 civilians in the Nisour Massacre.
 One employee is convicted of murder, and three others of manslaughter.
 Source: [The Guardian](http://www.theguardian.com/us-news/2015/apr/13/former-blackwater-guards-sentencing-baghdad-massacre) and [Wikipedia](https://en.wikipedia.org/wiki/Nisour_Square_massacre)
 
 * A small team of US soldiers admit to killing Afghan civilians for sport.
 Source: [The Guardian](http://www.theguardian.com/world/2011/mar/23/us-soldier-admits-killing-afghans)
+
+* In 2010, WikiLeaks released the Afghan War Documents, a collection of classified military operations in Afghanistan.
+These reports detail a number of previously unknown civilian casualties caused by the wrecklessness of coalition troops and paramilitary forces.
+The Pentagon criticized WikiLeaks for releasing the documents without proper redaction.
+But WikiLeaks contacted the Pentagon asking for help redacting the documents and the Pentagon refused.
+Wikipedia has an [excellent summary](https://en.wikipedia.org/wiki/Afghan_War_documents_leak) of information learned from the leaks.
+
+* In 2010, WikiLeaks released the Iraq War Documents, a collection of classified military operations in Iraq.
+These documents describe a number of abuses by both American (e.g. under reporting civilian casualties, counting journalists as enemy combatants, killings by civilian contractors) and Iraqi security forces (e.g. torturing of prisoners, summary executions).
+Wikipedia has an [excellent summary](https://en.wikipedia.org/wiki/Iraq_War_documents_leak) of information learned from the leaks, including detailed sourcing.
+
+* The ADE651 claims to be a device for detecting explosives and drugs, but it is an obvious fraud whose design is based on a $5 gag gift.
+The product brochure claims the device uses "nuclear quadropole resonance" to detect controlled substances, but the device contains no electronics and doesn't even take a battery.
+Sadly, the device was sold to the Iraqi military and was heavily used in Iraq at checkpoints.
+At one point, operators believed cologne was interfering with the device's operation, and so all perfume bottles had to be removed from vehicles before being searched.
+The device had a list price of $40,000 per unit, and more than 5000 units were sold to Iraq.
+Despite numerous arrests and proof of fraud, officials in Baghdad continue to defend the device.
+Source: [Vanity Fair](http://www.vanityfair.com/news/2015/06/fake-bomb-detectors-iraq)
 
 <!------------------------------------>
 
@@ -171,6 +197,7 @@ This is their new product line (which they sell for less) to compete with lower-
 Source: [Technical analusis on an engineer's blog](http://mikebeauchamp.com/misc/sennheiser-hd-555-to-hd-595-mod/)
 
 * [The Secret Goldman Sachs Tapes](http://www.bloombergview.com/articles/2014-09-26/the-secret-goldman-sachs-tapes)
+
 
 <!------------------------------------->
 
