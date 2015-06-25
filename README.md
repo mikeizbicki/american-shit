@@ -6,21 +6,39 @@ If you want to contribute (by fixing an error or adding new sources), please [cr
 
 <!----------------------------------------------------------------------------->
 
-Table of contents:
+## Table of contents:
 
-* [foreign policy](#foreign)
-    * [guantanamo](#guantanamo)
-    * [drone strikes]()
-* [police](#police)
-    * [excessive punishment]()
-    * [police abuse]()
-    * [militarization of the police]()
-    * [war on drugs]()
-* [spying]()
-    * [Snowden]()
-* [wealth disparity]()
-    * [excessive corporate power]()
-    * [homelessness](#homelessness)
+* [Foreign affairs](#foreign-policy)
+    * [Guantanamo Bay](#guantanamo-bay)
+    * [Drone strikes](#drone-strikes)
+    * [Iraq/Afghanistan](#iraqafghanistan)
+    * [South America](#south-america)
+
+* [Police](#police)
+    * [Police brutality](#police-brutality)
+        * [Selected incidents](#selected-incidents)
+        * [Police and race](#police-and-race)
+        * [Police negligence](#police-negligence)
+    * [Punishment](#punishment)
+        * [Double standards](#double-standards)
+        * [Excessive punishment for minor crimes](#excessive-punishment)
+        * [Prison conditions are awful](#prison-conditions-are-awful)
+        * [Chicago's Homan Square facility](#homan-square)
+    * [Militarization of the police](#militarization-of-the-police)
+
+
+* [Government surveillance](#government-surveillance)
+    * [Important people]()
+        * [Lies and half-truth told by government officials](#lies-and-half-truths-told-by-government-officials)
+        * [Edward Snowden](#edward-snowden)
+        * [Other wistleblowers](#other-whistleblowers)
+        * [Famous polititans speak out against surveillance](#famous-politians-speak-out)
+    * [Revealed abuses](#revealed-abuses)
+    * [Revealed capabilities](#spying-capabilities)
+    * [Positive outcomes of whistleblowing](#positive-outcomes-of-whistleblowing)
+
+* [Corpratism](#corpratism)
+    * [Poor treatment of the homeless](#poor-treatment-of-the-homeless)
 
 
 <!----------------------------------------------------------------------------->
@@ -214,6 +232,26 @@ Source: [Ben Norton's blog](http://bennorton.com/dea-agent-we-were-told-not-to-e
 * Black teenagers are 21 times more likely to be shot and killed by police officers than white teenagers.
 Source: [ProPublica](http://www.propublica.org/article/deadly-force-in-black-and-white)
 
+* [video](http://tmz.vo.llnwd.net/o28/2014-12/22/0_dmal6jtk_0_glcv599p_2.mp4)
+A room full of police sing horrific song about the Mike Brown shooting.
+
+* Police officer sends text message saying:
+
+    > I wish someone would pull a Ferguson on them and take them out.
+    I hate looking at those African monkeys at work.
+    I enjoy arresting those thugs with their saggy pants.
+
+    Source: [The Advocate](http://theadvocate.com/home/10181682-123/brpd-cop-accused-of-sending)
+
+* [Department Of Justice Orders Ferguson Police To Stop Wearing 'I Am Darren Wilson' Bracelets](http://thinkprogress.org/justice/2014/09/27/3573025/darren-wilson-bracelets/)
+
+* [Michael Brown memorial tree cut down in Ferguson park less than 24 hours after dedication](http://www.rawstory.com/2015/04/michael-brown-memorial-tree-cut-down-in-ferguson-park-less-than-24-hours-after-dedication/)
+
+* Family and friends create a memorial for Michael Brown.
+A police office lets his police dog urinate on the memorial;
+then officers "trample" the memorial with their cars.
+Source: [Mother Jones](http://www.motherjones.com/politics/2014/08/ferguson-st-louis-police-tactics-dogs-michael-brown)
+
 <!--
 * [DEA Steals $16,000 In Cash From Young Black Man, Because He Must Be A Drug Dealer](http://www.huffingtonpost.com/2015/05/07/dea-asset-forfeiture-joseph-rivers_n_7231744.html)
 
@@ -249,7 +287,7 @@ http://thinkprogress.org/justice/2014/12/10/3468340/jump-outs/
 
 <!------------------------------------>
 
-### Police militarization
+### Militarization of the police
 
 * [video](https://www.youtube.com/watch?v=KUdHIatS36A) John Oliver explains the racially heated police militarization in Ferguson.
 
@@ -275,30 +313,6 @@ He draws his pistol to fire at a dog.
 He falls to the ground but continues firing, killing a woman.
 No charges are brought against the officer.
 Source: [Filming Cops](http://filmingcops.com/cop-shoots-innocent-mother-to-death-in-front-of-her-child-opens-fire-on-pet-dog-receives-paid-leave-with-no-charges/)
-
-<!------------------------------------>
-
-### Police insensitivity
-
-* [video](http://tmz.vo.llnwd.net/o28/2014-12/22/0_dmal6jtk_0_glcv599p_2.mp4)
-A room full of police sing horrific song about the Mike Brown shooting.
-
-* Police officer sends text message saying:
-
-    > I wish someone would pull a Ferguson on them and take them out.
-    I hate looking at those African monkeys at work.
-    I enjoy arresting those thugs with their saggy pants.
-
-    Source: [The Advocate](http://theadvocate.com/home/10181682-123/brpd-cop-accused-of-sending)
-
-* [Department Of Justice Orders Ferguson Police To Stop Wearing 'I Am Darren Wilson' Bracelets](http://thinkprogress.org/justice/2014/09/27/3573025/darren-wilson-bracelets/)
-
-* [Michael Brown memorial tree cut down in Ferguson park less than 24 hours after dedication](http://www.rawstory.com/2015/04/michael-brown-memorial-tree-cut-down-in-ferguson-park-less-than-24-hours-after-dedication/)
-
-* Family and friends create a memorial for Michael Brown.
-A police office lets his police dog urinate on the memorial;
-then officers "trample" the memorial with their cars.
-Source: [Mother Jones](http://www.motherjones.com/politics/2014/08/ferguson-st-louis-police-tactics-dogs-michael-brown)
 
 <!------------------------------------>
 <!--
@@ -328,7 +342,7 @@ http://www.vice.com/weediquette-show/the-war-on-kids
 -->
 <!------------------------------------>
 
-### Double standards
+### Double standards on punishment
 
 * General Petraeus was Chairman of the Joint Chiefs of Staff and the director of the CIA.
 He illegally leaked classified documents to Paula Broadwell (a reporter and also his girlfriend).
