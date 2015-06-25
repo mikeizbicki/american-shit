@@ -94,10 +94,6 @@ Source: [Ryan Gallagher](http://notes.rjgallagher.co.uk/2014/08/extraordinary-re
 
 ### Drones Strikes
 
-* [video](https://www.youtube.com/watch?v=JzYbY1PmscM) Obama tells jokes about drone strikes.
-
-* [video](https://www.youtube.com/watch?v=ZDSNqow4SwM) US drones kill more people than ISIS
-
 * As of January 2015, the Obama administration has confirmed launching 456 drone strikes killing 2464 people in Pakistan, Yemen, and Somalia.
 This is more than double the casualty rate during the Bush administration.
 Source: [The Bureau Investigates](http://www.thebureauinvestigates.com/2015/02/02/almost-2500-killed-covert-us-drone-strikes-obama-inauguration/)
@@ -113,8 +109,9 @@ Source: [The Intercept](https://firstlook.org/theintercept/2014/11/18/media-outl
     Two months later, he is killed in a drone attack.
     Source: [The Guardian](http://www.theguardian.com/world/2015/feb/10/drones-dream-yemeni-teenager-mohammed-tuaiman-death-cia-strike?CMP=share_btn_tw)
 
-Drone technology percolates down to local law enforcement agencies.
-http://rt.com/usa/182048-drone-demonstration-lapd-police/
+* [video](https://www.youtube.com/watch?v=JzYbY1PmscM) Obama tells jokes about drone strikes.
+
+* [video](https://www.youtube.com/watch?v=ZDSNqow4SwM) US drones kill more people than ISIS
 
 <!--
 * H.R. 4681 Source: [Congress.gov](https://www.congress.gov/bill/113th-congress/house-bill/4681)
@@ -132,30 +129,32 @@ Source: [The Electronic Frontier Foundation](https://www.eff.org/deeplinks/2013/
 One employee is convicted of murder, and three others of manslaughter.
 Source: [The Guardian](http://www.theguardian.com/us-news/2015/apr/13/former-blackwater-guards-sentencing-baghdad-massacre) and [Wikipedia](https://en.wikipedia.org/wiki/Nisour_Square_massacre)
 
-US soldiers admit to killing civilians for sport.
-http://www.theguardian.com/world/2011/mar/23/us-soldier-admits-killing-afghans
-
+* A small team of US soldiers admit to killing Afghan civilians for sport.
+Source: [The Guardian](http://www.theguardian.com/world/2011/mar/23/us-soldier-admits-killing-afghans)
 
 <!------------------------------------>
 
 ### South America
 
-US soldiers rape 54 Columbian, filmed the abuse, and sold the films.
+* US soldiers rape 54 Columbian, filmed the abuse, and sold the films.
 They are immune to prosecution due to American treaties.
-http://colombiareports.co/more-than-54-colombian-girls-sexually-abuses-by-us-military-report/
+Source: [Colombia Reports](http://colombiareports.co/more-than-54-colombian-girls-sexually-abuses-by-us-military-report/)
 
 <!----------------------------------------------------------------------------->
 
 ## Corporatism:
 
-[Wall Street banks award executives millions of dollars for getting in government positions](http://www.newrepublic.com/article/120967/wall-street-pays-bankers-work-government-and-wants-it-secret)
-
-["Wal-Mart's low wages have led to full-time employees seeking public assistance....They receive $2.66 billion in government help each year "](http://www.bloombergview.com/articles/2013-12-18/always-low-wages-wal-mart-s-other-choices)
-
 * Every year, corporations fail to pay an estimated 40-60 billion dollars that they legally owe to low income workers across the country.
 This failure to pay is known as "wage theft."
 This compares to national annual losses of only 12 billion dollars to more traditional forms of theft like robbery, burglary, larceny, and auto theft.
 Source: [wikipedia](http://en.wikipedia.org/wiki/Wage_theft#Incidence) has a great summary of sources, [Think Progress](http://thinkprogress.org/economy/2014/08/12/3470106/jimmy-johns-wage-theft/) describes a specific example involving Jimmy John's sandwich shop.
+
+* Law enforcement agencies are legally required to respond to certain types requests for information about their activity.
+Many law enforcement agencies have become private corporations, however, in order to circumvent these requirements.
+Source: [The Washington Post](http://www.washingtonpost.com/news/the-watch/wp/2014/06/26/massachusetts-swat-teams-claim-theyre-private-corporations-immune-from-open-records-laws/)
+[Wall Street banks award executives millions of dollars for getting in government positions](http://www.newrepublic.com/article/120967/wall-street-pays-bankers-work-government-and-wants-it-secret)
+
+* ["Wal-Mart's low wages have led to full-time employees seeking public assistance....They receive $2.66 billion in government help each year "](http://www.bloombergview.com/articles/2013-12-18/always-low-wages-wal-mart-s-other-choices)
 
 * In the "Kids for Cash" scandal, two Pennsylvania judges were bribed into sentencing thousands of children to private prisons.
 Source: [Wikipedia](http://en.wikipedia.org/wiki/Kids_for_cash_scandal) has a number of details and references.
@@ -175,9 +174,6 @@ Source: [Technical analusis on an engineer's blog](http://mikebeauchamp.com/misc
 
 * [The Secret Goldman Sachs Tapes](http://www.bloombergview.com/articles/2014-09-26/the-secret-goldman-sachs-tapes)
 
-Walmart government assistance
-http://www.bloombergview.com/articles/2013-12-18/always-low-wages-wal-mart-s-other-choices
-
 <!------------------------------------>
 
 ### The TSA
@@ -188,20 +184,84 @@ http://www.theatlantic.com/politics/archive/2015/06/the-tsa-doesnt-work-and-mayb
 
 ## Police
 
+<!--
 http://thatjayjustice.tumblr.com/post/117573528794/fuckyeahmarxismleninism-this-says-it-all-in
 
-jumpouts
-http://thinkprogress.org/justice/2014/12/10/3468340/jump-outs/
+* [Historian says don't sanitize how our government created the ghetos](http://www.npr.org/2015/05/14/406699264/historian-says-dont-sanitize-how-our-government-created-the-ghettos?sc=ipad&f=1001)
+-->
 
-[A Black Male With A Degree And A White High School Grad Have The Same Chances Of Getting A Job](http://www.huffingtonpost.com/2014/06/27/racial-education-gap_n_5537530.html)
+<!------------------------------------>
+
+### Police and race
+
+* A DEA agents claims he was told not to enforce drug laws in rich white neighborhoods.
+Source: [Ben Norton's blog](http://bennorton.com/dea-agent-we-were-told-not-to-enforce-drug-laws-in-rich-white-areas/)
 
 * Black teenagers are 21 times more likely to be shot and killed by police officers than white teenagers.
 Source: [ProPublica](http://www.propublica.org/article/deadly-force-in-black-and-white)
 
-* North Korean propaganda explaining why blacks shouldn't fight in Korea.
-http://imgur.com/a/nMpLZ
-
+<!--
 * [DEA Steals $16,000 In Cash From Young Black Man, Because He Must Be A Drug Dealer](http://www.huffingtonpost.com/2015/05/07/dea-asset-forfeiture-joseph-rivers_n_7231744.html)
+
+[A Black Male With A Degree And A White High School Grad Have The Same Chances Of Getting A Job](http://www.huffingtonpost.com/2014/06/27/racial-education-gap_n_5537530.html)
+
+* During the Korean War, North Korean spread propaganda explaining why blacks shouldn't fight in Korea.
+Here is scan of their leaflets:
+http://imgur.com/a/nMpLZ
+-->
+
+<!--
+<!------------------------------------>
+
+### Other police abuses of power
+
+[Police Use Department Wish List When Deciding Which Assets to Seize](http://www.nytimes.com/2014/11/10/us/police-use-department-wish-list-when-deciding-which-assets-to-seize.html)
+
+http://www.eastbayexpress.com/oakland/counter-terrorism-officials-helped-track-black-lives-matter-protesters/Content?oid=4247605
+
+<!------------------------------------>
+
+### Overpolicing
+
+* NYPD's Aggressive Hunt for the Brooklyn Bridge Pranksters Is About Embarrassment, Not Counterterrorism
+https://news.vice.com/article/nypds-aggressive-hunt-for-the-brooklyn-bridge-pranksters-is-about-embarrassment-not-counterterrorism
+
+[America’s over-policing bombshell: How new data proves “stop & frisk” critics were right all along](http://www.salon.com/2015/01/10/americas_over_policing_bombshell_how_new_data_proves_stop_frisk_critics_were_right_all_along/)
+
+jumpouts
+http://thinkprogress.org/justice/2014/12/10/3468340/jump-outs/
+
+-->
+
+<!------------------------------------>
+
+### Police militarization
+
+* [video](https://www.youtube.com/watch?v=KUdHIatS36A) John Oliver explains the racially heated police militarization in Ferguson.
+
+* Internal plans created by the National Guard referred to Ferguson protesters as "enemy forces."
+Source: [The Guardian](http://www.theguardian.com/us-news/2015/apr/17/missouri-national-guard-ferguson-protesters-email)
+
+<!--
+* Drone technology percolates down to local law enforcement agencies.
+http://rt.com/usa/182048-drone-demonstration-lapd-police/
+-->
+
+<!------------------------------------>
+
+### Police negligence
+
+* DEA arrests a UC San Diego student and "forget about him."
+The student is left in a prison cell for 5 day without food or water.
+He is forced to drink his own urine to survive.
+Source: [LA Times](http://www.latimes.com/nation/la-na-dea-chong-20150505-story.html)
+
+<!------------------------------------>
+
+### Police insensitivity
+
+* [video](http://tmz.vo.llnwd.net/o28/2014-12/22/0_dmal6jtk_0_glcv599p_2.mp4)
+A room full of police sing horrific song about the Mike Brown shooting.
 
 * Police officer sends text message saying:
 
@@ -211,51 +271,7 @@ http://imgur.com/a/nMpLZ
 
     Source: [The Advocate](http://theadvocate.com/home/10181682-123/brpd-cop-accused-of-sending)
 
-[Department Of Justice Orders Ferguson Police To Stop Wearing 'I Am Darren Wilson' Bracelets](http://thinkprogress.org/justice/2014/09/27/3573025/darren-wilson-bracelets/)
-
-* [Historian says don't sanitize how our government created the ghetos](http://www.npr.org/2015/05/14/406699264/historian-says-dont-sanitize-how-our-government-created-the-ghettos?sc=ipad&f=1001)
-
-* [Baltimore Teen Is Held on $500,000 Bail and faces life in prison for smashing windows in protest. The legal system makes official the media's position that broken windows are valued more than a black person's life](http://www.theroot.com/articles/news/2015/04/balt_teen_encouraged_to_turn_self_in_by_parents_held_on_500_000_bail_faces.html)
-
-* A DEA agents claims he was told not to enforce drug laws in rich white neighborhoods.  Source: [Ben Norton's blog](http://bennorton.com/dea-agent-we-were-told-not-to-enforce-drug-laws-in-rich-white-areas/)
-
-* [video](https://www.youtube.com/watch?v=KUdHIatS36A) John Oliver explains the racially heated police militarization in Ferguson.
-
-* Internal plans created by the National Guard referred to Ferguson protesters as "enemy forces."
-Source: [The Guardian](http://www.theguardian.com/us-news/2015/apr/17/missouri-national-guard-ferguson-protesters-email)
-
-* 1 in 13 people killed by guns are killed by police.
-Source: [The Washington Post](http://www.washingtonpost.com/blogs/wonkblog/wp/2015/06/01/police-commit-1-in-13-gun-deaths-in-the-u-s/?tid=sm_fb)
-
-* An academic study finds that Occupy protests turn violent due to police provocations.
-These actions, which include bringing AR-15 assault rifles to peaceful protests "aren't necessarily intended to provoke, but have that effect."
-Source: [UC Berkeley](http://newscenter.berkeley.edu/2014/08/22/berkeley-researchers-find-police-often-incite-violence-at-protests/)
-
-<!--
-* NYPD's Aggressive Hunt for the Brooklyn Bridge Pranksters Is About Embarrassment, Not Counterterrorism
-https://news.vice.com/article/nypds-aggressive-hunt-for-the-brooklyn-bridge-pranksters-is-about-embarrassment-not-counterterrorism
--->
-
-[America’s over-policing bombshell: How new data proves “stop & frisk” critics were right all along](http://www.salon.com/2015/01/10/americas_over_policing_bombshell_how_new_data_proves_stop_frisk_critics_were_right_all_along/)
-
-<!--
-* Prosecuters seek death penalty against man who killed police officer during no-knowck raid that found no drugs. -->
-Source: [Local TV Station KWTX](http://www.kwtx.com/ourtown/home/headlines/Killeen--Prosecutor-Will-Seek-Death-Penalty-In-Police-Officers-Death-274000421.html)
-
-[Police Use Department Wish List When Deciding Which Assets to Seize](http://www.nytimes.com/2014/11/10/us/police-use-department-wish-list-when-deciding-which-assets-to-seize.html)
-
-* DEA arrests a UC San Diego student and "forget about him."
-The student is left in a prison cell for 5 day without food or water, forced to drink his own urine to survive.
-Source: [LA Times](http://www.latimes.com/nation/la-na-dea-chong-20150505-story.html)
-
-<!------------------------------------>
-
-### Michael Brown
-
-[video] A room full of police sing horrific song about the Mike Brown shooting.
-http://tmz.vo.llnwd.net/o28/2014-12/22/0_dmal6jtk_0_glcv599p_2.mp4
-
-* [Woman says that police in Ferguson shot her in the head while she was leaving a rally for Michael Brown. Now, the bullet that doctors removed from her head has vanished, and police claim she was shot in a drive-by shooting](http://www.rawstory.com/rs/2014/11/ferguson-protester-no-one-can-find-the-bullet-police-say-they-didnt-fire-into-my-head/)
+* [Department Of Justice Orders Ferguson Police To Stop Wearing 'I Am Darren Wilson' Bracelets](http://thinkprogress.org/justice/2014/09/27/3573025/darren-wilson-bracelets/)
 
 * [Michael Brown memorial tree cut down in Ferguson park less than 24 hours after dedication](http://www.rawstory.com/2015/04/michael-brown-memorial-tree-cut-down-in-ferguson-park-less-than-24-hours-after-dedication/)
 
@@ -265,14 +281,20 @@ then officers "trample" the memorial with their cars.
 Source: [Mother Jones](http://www.motherjones.com/politics/2014/08/ferguson-st-louis-police-tactics-dogs-michael-brown)
 
 <!------------------------------------>
+<!--
+### Michael Brown
+
+* [Woman says that police in Ferguson shot her in the head while she was leaving a rally for Michael Brown. Now, the bullet that doctors removed from her head has vanished, and police claim she was shot in a drive-by shooting](http://www.rawstory.com/rs/2014/11/ferguson-protester-no-one-can-find-the-bullet-police-say-they-didnt-fire-into-my-head/)
+
+<!------------------------------------>
 
 ### Eric Garner
 
 [Man Imprisoned After Filming Eric Garner’s Death, Refusing to Eat, Rat Poison Found in Jail Food](http://thefreethoughtproject.com/man-jailed-filming-eric-garners-death-eat-rat-poison-prisons-food/)
-
+-->
 <!------------------------------------>
-
-### FBI entrapment
+<!--
+### Entrapment
 
 https://firstlook.org/theintercept/2015/02/26/fbi-manufacture-plots-terrorism-isis-grave-threats/
 
@@ -281,135 +303,47 @@ https://www.techdirt.com/articles/20140722/14463127971/report-all-four-high-prof
 
 http://www.salon.com/2015/01/29/feds_make_fed_up_friends_how_the_fbi_encourages_people_to_act_their_worst/
 
-<!------------------------------------>
-
-### War on drugs
-
 This is the story of Jesse Snodgrass, a kid with Asperger's syndrome who was arrested by an undercover cop posing as a student at Jesse's high school. This is the story of how the war on drugs preys on the most vulnerable.
 http://www.vice.com/weediquette-show/the-war-on-kids
-
+-->
 <!------------------------------------>
 
 ### Double standards
 
-* There are many laws designed to protect police from being prosecuted.
-For example, in Maryland, when police officers are subject to disciplinary actions, they cannot be questioned about the event for 10 days after the accusation.
-(Source: [dailykos](http://www.dailykos.com/story/2015/04/22/1379495/-Baltimore-Police-Bill-of-Rights-gives-them-10-days-after-killing-someone-until-they-have-to-talk)).
+* General Petraeus was Chairman of the Joint Chiefs of Staff and the director of the CIA.
+He illegally leaked classified documents to Paula Broadwell (a reporter and also his girlfriend).
+During a follow on investigation, he lied to the FBI, stating he "had never provided Broadwell with classified information."
+His punishment was only a $40,000 fine and two years probation.
+Lower level government officials receive significantly harsher punishments.
+Source: [The Nation](http://www.thenation.com/blog/201761/lets-give-edward-snowden-same-deal-general-petraeus-got-leaking-info), [USA Today](https://firstlook.org/theintercept/2014/11/18/media-outlets-continue-describe-unknown-drone-victims-militants/)
 
+* Officer Caesar Goodson Jr lead the team of police accused of murdering Freddie Gray.
+His bail was set at $350,000.
+During the riots following the murder, Allen Bullock used an orange traffic cone to smash the window of a police car.
+His bail was set at $500,000 and he faces life in prison.
+Source: [The New Republic](http://www.newrepublic.com/article/121702/baltimore-rioter-gets-bail-above-freddie-grays-alleged-cop-murderer), [The Root](http://www.theroot.com/articles/news/2015/04/balt_teen_encouraged_to_turn_self_in_by_parents_held_on_500_000_bail_faces.html)
 
-<!--
-* Cop caught with child porn in Western Washington.
-Nothing is done except a 45 day house arrest.
-Source: [change.org](https://www.change.org/p/put-him-in-jail-immediately-lynden-police-officer-predator-don-glunt-guilty-of-child-porn-offenses)
--->
-
-* [Massachusetts SWAT teams claim they’re private corporations, immune from open records laws](http://www.washingtonpost.com/news/the-watch/wp/2014/06/26/massachusetts-swat-teams-claim-theyre-private-corporations-immune-from-open-records-laws/)
-
-[Baltimore Cop Accused of Murdering Freddie Gray Gets Lower Bail Than 18-Year Old Rioter](http://www.newrepublic.com/article/121702/baltimore-rioter-gets-bail-above-freddie-grays-alleged-cop-murderer?utm_content=buffer80528&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
-
-* [Video] Police officer starts inappropriately frisking a woman.
+* [Video](http://thefreethoughtproject.com/nypd-assault-arrest-man-filming-officer-inappropriately-touching-woman/)
+Police officer starts inappropriately frisking a woman.
 A nearby male friend says he doesn't like what's happening, so starts filming with a cellphone.
 The police arrest the male friend and charge him with assault.
 Video evidence clearly shows the male friend was being polite and did not assault the cops.
 No charges are filed against the police officers.
-Source: [The Free Thought Project](http://thefreethoughtproject.com/nypd-assault-arrest-man-filming-officer-inappropriately-touching-woman/)
 
-<!------------------------------------>
-
-### High level corruption
-
-* General Petraeus gets slap on the wrist for leaking government secrets to his mistress.
-Source: [The Nation](http://www.thenation.com/blog/201761/lets-give-edward-snowden-same-deal-general-petraeus-got-leaking-info), [USA Today](https://firstlook.org/theintercept/2014/11/18/media-outlets-continue-describe-unknown-drone-victims-militants/)
-
-<!------------------------------------>
-
-### Police brutality
-
-http://www.alternet.org/civil-liberties/cop-ruptures-mans-spleen-fellow-officers-take-pics-and-laugh
-
-Pigs Charge Man With “Destruction of Police Property” for Bleeding on Their Uniforms After They Beat Him
-https://www.reddit.com/r/nottheonion/comments/3328u6/cops_charge_man_with_destruction_of_police/
-
-* [video] Aerial footage of police excessively beating a fleeing unarmed man.
-Source: [MSNBC](http://www.liveleak.com/view?i=d46_1428632483)
-
-* Police killed more than twice as many people as reported by the US government and US news.
-Source: [The Guardian](http://www.theguardian.com/us-news/2015/mar/04/police-killed-people-fbi-data-justifiable-homicides) (a British nespaper)
-
-* Chicago police maintain a "black site" called Homan Square where citizens are detained without being charged for a crime.
-One former detainee claims to have been sexually abused by the police while held in Homan square illegally.
-Source: [The Guardian](http://www.theguardian.com/us-news/2015/may/14/homan-square-detainee-police-abuse)
-
-* This black site uses techniques pioneered at Guatanamo bay for "touchless torcher."
-These techniques include isolation, food deprivation, and no outside contact.
-Some lawyers report not being able to contact their clients who are jailed inside.
-Source: [The Atlantic](http://www.theatlantic.com/national/archive/2015/02/behind-the-disappeared-of-chicagos-homan-square/385964/)
-
-* One of the detectives working at Homan Square was a navy reserve lieutenent who also worked in Guantanmo.
-He applied the "enhanced interrogation techniques" from Guantanamo to American citizens in Chicago.
-These techniques included:
-shackling suspects to the walls through eyebolts for hours,
-forcing suspects to endure extreme temperatures,
-sleep deprivation,
-and threatening family members.
-Many false convictions resulted from these practices.
-Source: [The Atlantic](http://www.theguardian.com/us-news/2015/feb/18/guantanamo-torture-chicago-police-brutality)
-
-* SWAT team hits a 2 year old with a grenade during a minor drug raid.
-The raiding police refuse to let the parents take the child to the hospital until hours after the incident.
-There were no drugs in the house.
-Source: [Salon](http://www.salon.com/2014/06/24/a_swat_team_blew_a_hole_in_my_2_year_old_son/)
-http://www.thedailysheeple.com/cops-who-flash-banged-infant-are-blaming-the-baby_052015
-http://www.theguardian.com/us-news/2015/jan/31/detroit-aiyana-stanley-jones-police-officer-cleared
-
-* Florida cop shoot unarmed black man.
-Witnesses report the man had his hands in the air and was begging the officer not to shoot.
-Source: [Counter Current News](http://countercurrentnews.com/2014/12/cedric-bartee/)
-
-* Cop shoots unarmed boy with Down Syndrome claiming he "feared for his life."
-Video shows he's lying.
-Source: [The Free Thought Project](http://thefreethoughtproject.com/video-refutes-cops-claim-fearing-life-shot-unarmed-boy-syndrome/)
-
-* Cop "helps" man in wheelchair cross the street. [Animated gif](http://www.theroot.com/articles/news/2015/04/balt_teen_encouraged_to_turn_self_in_by_parents_held_on_500_000_bail_faces.html)
-
-* Compare the US reactions to the reaction of Iceland:
-http://www.pri.org/stories/2013-12-03/iceland-grieves-after-police-kill-man-first-time-its-history
-
-<!--
-* New York police officer choke holds a black man to death.
-He does not get punished.
-[The New York Times](http://www.nytimes.com/2014/12/04/nyregion/grand-jury-said-to-bring-no-charges-in-staten-island-chokehold-death-of-eric-garner.html?module=ArrowsNav&contentCollection=N.Y.%20%2F%20Region&action=keypress&region=FixedLeft&pgtype=article)
-
-* Tampa police shoot and kill suspected drug dealer during a house raid.
-The find only $2 worth of marijuana.
-Source: [Tampa Bay Times](http://www.tampabay.com/news/publicsafety/crime/informer-not-neighbor-complaints-led-up-to-fatal-tampa-pot-raid/2187316)
--->
-
-* Atlanta police shoot and kill unarmed black man.
-Source: [The BBC](http://www.bbc.co.uk/news/world-us-canada-31821405)
-
-* [video] A police officer asks a black man for his drivers license.
-He reaches into the car to grab it.
-The officer shoots him.
-Source: [youtube](https://www.youtube.com/watch?v=-XFYTtgZAlE&feature=youtu.beclaimed)
-
-* Baltimore protests
-Source: [BBC](http://www.bbc.com/news/world-us-canada-32470490)
-
-* The Bloods and the Crips (two notoriously rival gangs) team up to protest police abuses.
-Source: [The Daily Beast](http://www.thedailybeast.com/articles/2015/04/27/the-bloods-and-crips-anti-cop-ceasefire-in-baltimore.html), gang members speak on local TV station [WBALTV](http://www.wbaltv.com/news/gang-members-we-did-not-make-truce-to-harm-cops/32609810)
-
-* [video] Police shoot Walter Scott.
-He is unarmed and fleeing.
-Source: [The NY Times](http://www.nytimes.com/2015/05/16/us/dzhokhar-tsarnaev-death-sentence.html?rref=us&module=ArrowsNav&contentCollection=U.S.&action=keypress&region=FixedRight&pgtype=article)
-
-* [video](http://i.imgur.com/DTYSXXC.gif) After shooting Walter Scott, the police officer plants a taser on the dead body.
-
-http://www.eastbayexpress.com/oakland/counter-terrorism-officials-helped-track-black-lives-matter-protesters/Content?oid=4247605
+* There are many laws designed to protect police from being prosecuted.
+For example, in Maryland, when police officers are subject to disciplinary actions, they cannot be questioned about the event for 10 days after the accusation.
+This gives the officers time to straighten out their stories.
+Source: [dailykos](http://www.dailykos.com/story/2015/04/22/1379495/-Baltimore-Police-Bill-of-Rights-gives-them-10-days-after-killing-someone-until-they-have-to-talk).
 
 <!------------------------------------>
 
 ### Excessive punishment
+
+<!--
+* Prosecuters seek death penalty against man who killed police officer during no-knowck raid that found no drugs.
+Source: [Local TV Station KWTX](http://www.kwtx.com/ourtown/home/headlines/Killeen--Prosecutor-Will-Seek-Death-Penalty-In-Police-Officers-Death-274000421.html)
+--
+-->
 
 http://america.aljazeera.com/articles/2015/3/9/un-expert-slams-us-as-only-nation-to-sentence-kids-to-life-without-parole.html
 
@@ -418,6 +352,87 @@ Aaron Schwartz (compare to the "cash for kids" judges)
 https://www.reddit.com/r/nottheonion/comments/3328u6/cops_charge_man_with_destruction_of_police/
 
 http://www.theguardian.com/us-news/2015/jun/23/fbi-evidence-single-hair-kirk-odom
+
+<!------------------------------------>
+
+### Police brutality
+
+* The FBI publishes yearly reports on the number of justifiable homicides committed by police officers.
+On average, these reports track 383 homicides per year.
+Independent review found that the police commit 938 homicides per year, the difference being untracked by the FBI.
+Source: [The Guardian](http://www.theguardian.com/us-news/2015/mar/04/police-killed-people-fbi-data-justifiable-homicides) (a British newspaper)
+
+* 1 in 13 people killed by guns are killed by police.
+Source: [The Washington Post](http://www.washingtonpost.com/blogs/wonkblog/wp/2015/06/01/police-commit-1-in-13-gun-deaths-in-the-u-s/?tid=sm_fb)
+
+* An academic study finds that Occupy protests turn violent due to police provocations.
+These actions, which include bringing AR-15 assault rifles to peaceful protests "aren't necessarily intended to provoke, but have that effect."
+Source: [UC Berkeley](http://newscenter.berkeley.edu/2014/08/22/berkeley-researchers-find-police-often-incite-violence-at-protests/)
+
+* In 2013, the country of Iceland had it's first every police shooting.
+The country is in shock and goes into mourning.
+(Compare this to the American reaction to a police shooting.)
+Source: [Public Radio International](http://www.pri.org/stories/2013-12-03/iceland-grieves-after-police-kill-man-first-time-its-history)
+
+<!--
+* http://www.alternet.org/civil-liberties/cop-ruptures-mans-spleen-fellow-officers-take-pics-and-laugh
+
+* Pigs Charge Man With "Destruction of Police Property" for Bleeding on Their Uniforms After They Beat Him
+https://www.reddit.com/r/nottheonion/comments/3328u6/cops_charge_man_with_destruction_of_police/
+-->
+
+#### Selected incidents
+
+* [video](http://www.foxnews.com/us/2014/07/03/indiana-police-officer-seen-on-video-pushing-man-out-wheelchair-to-keep-job/)
+A man in a wheelchair approaches a police officer.
+The officer pushes the handicapped man, causing him to fly from the chair.
+The officer faces no repercussions.
+
+* [video](http://www.liveleak.com/view?i=d46_1428632483)
+Aerial footage of police excessively beating a fleeing unarmed man.
+
+* New York city police regulations do not allow officers to use choke holds.
+Nevertheless, a police officer puts Eric Garner in a choke hold, killing him.
+Witnesses report the victim was saying "I can't breathe" to the officer.
+Source: [The NYTimes](http://www.nytimes.com/2014/12/04/nyregion/grand-jury-said-to-bring-no-charges-in-staten-island-chokehold-death-of-eric-garner.html)
+
+* [video] Police shoot Walter Scott.
+He is unarmed and fleeing.
+Source: [The NY Times](http://www.nytimes.com/2015/05/16/us/dzhokhar-tsarnaev-death-sentence.html?rref=us&module=ArrowsNav&contentCollection=U.S.&action=keypress&region=FixedRight&pgtype=article)
+
+    [video](http://i.imgur.com/DTYSXXC.gif) After shooting Walter Scott, the police officer plants a taser on the dying body.
+
+* Baltimore police shoot Freddie Gray.
+Afterward, he is handcuffed in the back of the patrol vehicle while the officers conduct more patrols.
+He pleads for help and eventually dies from his wounds.
+This sets off riots in Baltimore.
+Source: [The BBC](http://www.bbc.com/news/world-us-canada-32554371)
+
+    The Bloods and the Crips (two notoriously rival gangs) team up to protest police abuses.
+    Source: [The Daily Beast](http://www.thedailybeast.com/articles/2015/04/27/the-bloods-and-crips-anti-cop-ceasefire-in-baltimore.html), gang members speak on local TV station [WBALTV](http://www.wbaltv.com/news/gang-members-we-did-not-make-truce-to-harm-cops/32609810)
+
+* Florida cop shoots unarmed black man.
+Witnesses report the man had his hands in the air and was begging the officer not to shoot.
+Source: [Counter Current News](http://countercurrentnews.com/2014/12/cedric-bartee/)
+
+* A boy with Down Syndrome is driving a car.
+A police officer claims that he "feared for his life" because the boy was driving the car towards him.
+The officer shoots the boy three times.
+Internal police investigation clears the officer of wrongdoing, citing the officer's dashcam video that does not show the scene of the incident.
+A traffic camera that does show the incident (and that the car is driving aware from the officer at the time of the shooting) is ignored.
+Source: [The Free Thought Project](http://thefreethoughtproject.com/video-refutes-cops-claim-fearing-life-shot-unarmed-boy-syndrome/)
+
+* SWAT team hits a 2 year old with a grenade during a minor drug raid.
+The raiding police refuse to let the parents take the child to the hospital until hours after the incident.
+There were no drugs in the house.
+Source: [Salon](http://www.salon.com/2014/06/24/a_swat_team_blew_a_hole_in_my_2_year_old_son/),
+[The Daily Sheeple](http://www.thedailysheeple.com/cops-who-flash-banged-infant-are-blaming-the-baby_052015),
+[The Guardian](http://www.theguardian.com/us-news/2015/jan/31/detroit-aiyana-stanley-jones-police-officer-cleared)
+
+* [video](https://www.youtube.com/watch?v=-XFYTtgZAlE&feature=youtu.beclaimed)
+A police officer asks a black man for his drivers license.
+He reaches into the car to grab it.
+The officer shoots him.
 
 <!------------------------------------>
 
@@ -482,12 +497,28 @@ Source: [alternet](http://www.alternet.org/civil-liberties/autopsy-report-shows-
 -->
 
 <!--
-* Police shooting of Freddie Gray.
-Source: [The BBC](http://www.bbc.com/news/world-us-canada-32554371)
 -->
 
-FBI tracked civil rights activists.
-http://www.theguardian.com/books/2015/feb/09/fbi-monitored-african-american-writers-j-edgar-hoover
+#### Chicago PD's Homan Square
+
+* Chicago police maintain a "black site" called Homan Square where citizens are detained without being charged for a crime.
+One former detainee claims to have been sexually abused by the police while held in Homan square illegally.
+Source: [The Guardian](http://www.theguardian.com/us-news/2015/may/14/homan-square-detainee-police-abuse)
+
+* This black site uses techniques pioneered at Guatanamo bay for "touchless torcher."
+These techniques include isolation, food deprivation, and no outside contact.
+Some lawyers report not being able to contact their clients who are jailed inside.
+Source: [The Atlantic](http://www.theatlantic.com/national/archive/2015/02/behind-the-disappeared-of-chicagos-homan-square/385964/)
+
+* One of the detectives working at Homan Square was a navy reserve lieutenant who also worked at Guantanmo Bay.
+He applied the "enhanced interrogation techniques" from Guantanamo to American citizens in Chicago.
+These techniques included:
+shackling suspects to the walls through eyebolts for hours,
+forcing suspects to endure extreme temperatures,
+sleep deprivation,
+and threatening family members.
+Many false convictions resulted from these practices.
+Source: [The Atlantic](http://www.theguardian.com/us-news/2015/feb/18/guantanamo-torture-chicago-police-brutality)
 
 <!---------------------------------------------------------------------------->
 
@@ -695,9 +726,13 @@ http://abcnews.go.com/US/mysterious-white-flags-fly-place-american-flags-brookly
 
 http://www.reddit.com/r/Anarchism/comments/2mszo6/november_19_1915_iww_organiser_joe_hill_is/
 
+FBI tracked civil rights activists.
+http://www.theguardian.com/books/2015/feb/09/fbi-monitored-african-american-writers-j-edgar-hoover
+
 <!----------------------------------------------------------------------------->
 
+<!--
 # Church
 
 http://news.yahoo.com/pope-says-communists-closet-christians-142947603.html
-
+-->
