@@ -975,10 +975,6 @@ http://www.rawstory.com/2014/12/some-sort-of-hell-how-one-of-the-wealthiest-citi
 http://www.citylab.com/housing/2015/06/every-single-county-in-america-is-facing-an-affordable-housing-crisis/396284/
 -->
 
-<!--
-<!------------------------------------>
--->
-
 
 <!--* http://www.scmp.com/news/world/article/1796184/us-house-votes-terminate-nsas-metadata-dragnet-wake-snowden-revelations-->
 
