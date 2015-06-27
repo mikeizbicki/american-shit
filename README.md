@@ -42,7 +42,21 @@ If you want to contribute (by fixing an error or adding new sources), please [cr
 
 <!----------------------------------------------------------------------------->
 
-## Foreign Policy
+## Foreign relations
+
+<!------------------------------------>
+
+### Ways US falls behind international standards
+
+* A UN report on torture says life sentences for youth are cruel, inhumane and degrading.
+The United States is the only country in the world to imprison kids for life without parole.
+Source: [Al Jazeera](http://america.aljazeera.com/articles/2015/3/9/un-expert-slams-us-as-only-nation-to-sentence-kids-to-life-without-parole.html)
+
+* [Cluster munitions](https://en.wikipedia.org/wiki/Cluster_munition) are a particularly dangerous form of weapon for civilians.
+Approximately 5% of the bomblets do not explode on impact.
+Civilians can later discover the unexploded ordinance and accidentally cause it to explode.
+The United States has not signed the [Convention on Cluster Munitions](https://en.wikipedia.org/wiki/Convention_on_Cluster_Munitions#States_Parties),
+and used cluster munitions extensively in Afghanistan and Iraq.
 
 <!------------------------------------>
 
@@ -151,7 +165,7 @@ http://www.salon.com/2014/12/16/america_nation_of_torturers_stop_saying_this_isn
 
 <!------------------------------------>
 
-### Drones Strikes
+#### Drones Strikes
 
 * As of January 2015, the Obama administration has confirmed launching 456 drone strikes killing 2464 people in Pakistan, Yemen, and Somalia.
 This is more than double the casualty rate during the Bush administration.
@@ -182,7 +196,20 @@ Source: [The Electronic Frontier Foundation](https://www.eff.org/deeplinks/2013/
 
 <!------------------------------------>
 
-### South America
+### Latin America
+
+* The United States has had a continual military presence in Latin America since the 1800s.
+
+    * In the [Banana Wars](https://en.wikipedia.org/wiki/Banana_Wars) of the late 19th century, the US fought on behalf of the United Fruit corporation.
+
+    * During the Cold War, the US supported military coups against many democratically elected regimes.
+    These include:
+
+        * the [1954 Guatemalan coup](https://en.wikipedia.org/wiki/1954_Guatemalan_coup_d%27%C3%A9tat),
+        * the [1964 Brazilian coup](https://en.wikipedia.org/wiki/1964_Brazilian_coup_d%27%C3%A9tat),
+        * the [1973 Chilean Coup](https://en.wikipedia.org/wiki/1973_Chilean_coup)
+
+    The US-sponsored dictators committed many human rights abuses.
 
 * After Hurricane Katrina, the US government refused foreign aide from Cuba and Venezuela.
 This aide would have included:
@@ -192,9 +219,19 @@ water treatments plants,
 and 26.4 tons of medicine.
 Source: [The BBC](http://news.bbc.co.uk/2/hi/uk_news/4344168.stm)
 
-* US soldiers rape 54 Columbian, filmed the abuse, and sold the films.
-They are immune to prosecution due to American treaties.
+* The US Army runs the [School of Americas (SOA)](https://en.wikipedia.org/wiki/Western_Hemisphere_Institute_for_Security_Cooperation) to provide Latin American military forces "anti-communist counterinsurgency training."
+The SOA Watch lists 56 [notorious graduates](http://soaw.org/about-the-soawhinsec/soawhinsec-grads/notorious-grads).
+These are high ranking military officers from Latin American countries who were trained at the SOA and went on to commit human rights abuses in their home country.
+The official SOA response is that "that no school should be held accountable for the actions of its graduates."
+
+* Columbia has had [major internal conflict](https://en.wikipedia.org/wiki/Colombian_conflict_%281964%E2%80%93present%29#Role_of_the_United_States) since the 1960s.
+The United States sends military aide to the government to help them fight the leftist militias.
+Between 2003 and 2007, US soldiers raped 54 Columbians.
+They filmed the abuse and sold the films as pornography.
+But due to bilateral agreements between the US and Columbia, these soldiers are immune from prosecution.
 Source: [Colombia Reports](http://colombiareports.co/more-than-54-colombian-girls-sexually-abuses-by-us-military-report/)
+
+* [video](www.youtube.com/watch?v=UQBWGo7pef8) This video in the style of School House Rock explains some of the history of US involvement in Latin America.
 
 <!----------------------------------------------------------------------------->
 
@@ -230,6 +267,37 @@ Source: [Technical analusis on an engineer's blog](http://mikebeauchamp.com/misc
 
 * [The Secret Goldman Sachs Tapes](http://www.bloombergview.com/articles/2014-09-26/the-secret-goldman-sachs-tapes)
 
+<!--
+Good story, but the writing's bad.  Is it machine generated?
+http://www.ktul.com/story/28987833/dui-arrest-sparks-controversy
+-->
+
+<!------------------------------------->
+
+### Media and propaganda
+
+* Since 2011, the Department of Defense has paid NFL teams $5.4 million to salute US troops during games.
+Source: [Scout](http://www.scout.com/story/1545004-nfl-teams-paid-to-thank-troops-at-games)
+
+<!------------------------------------->
+
+### Corporations and the environment
+
+* Exxon causes a major oil spill in New Jersey.
+There is an estimated $8.9 billion in damages to the environment.
+Exxon is required to pay only a $250 million fine.
+Source: [The NYTimes](http://www.nytimes.com/2015/02/28/nyregion/exxon-mobil-settles-with-new-jersey-over-environmental-damage.html?_r=0&referrer=)
+
+* 100 homes in Arlington Texas have to be evacuated as 42 thousand gallons of fracking fluid spills over the streets.
+One month later, another 1500 gallon spill occurs at the same site.
+Source: [WFAA](http://www.wfaa.com/story/news/local/tarrant-county/2015/06/16/arlington-officials-report-on-fracking-fluid-blowout/28844657/)
+
+* University of Oklahoma researchers were investigating the possible link between fracking and increased earth quake activity.
+Harold Hamm is the billionaire CEO of the energy company Continental Resources.
+Hamm contacted the University's dean trying to get the researchers fired.
+Source: [Bloomberg](http://www.bloomberg.com/news/articles/2015-05-15/oil-tycoon-harold-hamm-wanted-scientists-dismissed-dean-s-e-mail-says)
+
+
 <!------------------------------------->
 
 ### Corporations in politics
@@ -237,6 +305,10 @@ Source: [Technical analusis on an engineer's blog](http://mikebeauchamp.com/misc
 * The company [Crowds on Demand](http://crowdsondemand.com/services/political-services/) let's politicians hire people to show up at media events and claim to be grassroots supporters for candidates.
 Liberty Chat had a [brief under cover interview](http://libertychat.com/2015/06/rent-a-crowd-company-admits-politicians-are-using-their-service/).
 
+* The Trans-Pacific Partnership is a controversial bill that was fast-tracked through Congress.
+Many believe the bill would help large corporations at the expense of small businesses.
+During the debate for the bill, corporations donate $1.1 million dollars in campaign funding to congressman to secure the bill's passing.
+Source: [The Guardian](http://www.theguardian.com/business/2015/may/27/corporations-paid-us-senators-fast-track-tpp)
 
 <!------------------------------------->
 
@@ -272,10 +344,6 @@ http://www.citylab.com/housing/2015/06/every-single-county-in-america-is-facing-
 
 <!--
 <!------------------------------------>
-
-### The TSA
-
-http://www.theatlantic.com/politics/archive/2015/06/the-tsa-doesnt-work-and-maybe-it-doesnt-matter/394673/?utm_source=SFFB
 -->
 
 <!----------------------------------------------------------------------------->
@@ -287,6 +355,12 @@ http://thatjayjustice.tumblr.com/post/117573528794/fuckyeahmarxismleninism-this-
 
 * [Historian says don't sanitize how our government created the ghetos](http://www.npr.org/2015/05/14/406699264/historian-says-dont-sanitize-how-our-government-created-the-ghettos?sc=ipad&f=1001)
 -->
+
+* After the San Diego police starting using body cams on officers, complaints fell 41% and use of force by 47%.
+Source: [LA Times](http://www.latimes.com/local/lanow/la-me-ln-body-cameras-20150318-story.html)
+
+* All 50 states fail to live up to international standards on the use of violence.
+Source: [The Guardian](http://www.theguardian.com/us-news/2015/jun/18/us-states-police-use-of-force-standards-amnesty)
 
 <!------------------------------------>
 
@@ -356,6 +430,9 @@ http://thinkprogress.org/justice/2014/12/10/3468340/jump-outs/
 <!------------------------------------>
 
 ### Militarization of the police
+
+* The NYPD uses the same special task force for counterterrorism and managing protests.
+Source: [NYPost](http://nypost.com/2015/01/30/nypd-to-launch-a-beefed-up-counterterrorism-squad/)
 
 * [video](https://www.youtube.com/watch?v=KUdHIatS36A) John Oliver explains the racially heated police militarization in Ferguson.
 
@@ -432,6 +509,11 @@ No charges are filed against the police officers.
 For example, in Maryland, when police officers are subject to disciplinary actions, they cannot be questioned about the event for 10 days after the accusation.
 This gives the officers time to straighten out their stories.
 Source: [dailykos](http://www.dailykos.com/story/2015/04/22/1379495/-Baltimore-Police-Bill-of-Rights-gives-them-10-days-after-killing-someone-until-they-have-to-talk).
+
+* A police officer shoots and kills an innocent man because he "reached for his waist" where a weapon might have been concealed.
+Three other police officers, a police negotiator, and two civilians who were at the scene report the victim never reached for his waist.
+The shooting officer is never charged.
+Source: [CBC](http://www.cbc.ca/news/world/in-fairfax-va-a-different-no-less-scary-police-shooting-1.2960995)
 
 <!------------------------------------>
 
@@ -555,6 +637,16 @@ Officers claim to have left the car and came back to find White had committed su
 Autopsy reports contradict the officer's testimony.
 Source: [NBC](http://www.nbcnews.com/news/investigations/victor-white-shooting-feds-probe-suicide-handcuffed-black-man-n194826)
 
+* The town of Inkster, Michigan is 78% black, but the police force is 90% white.
+In this incident, a black man named Floyd Dent is pulled over for a traffic stop.
+Dash cams on the patrol car show officers beating the victim and planting drugs in his car.
+Source: [The Guardian](http://www.theguardian.com/us-news/2015/mar/30/floyd-dent-police-inkster-michigan-beating)
+
+* Albuquerque police officer shoots and kills a mentally ill homeless man.
+Footage from his label camera goes missing.
+To avoid an internal investigation, the officer retires, receiving a full pension.
+Source: [The AntiMedia](http://theantimedia.org/cop-who-killed-homeless-man-retiring/)
+
 <!------------------------------------>
 
 ### Prisons conditions are awful
@@ -635,7 +727,11 @@ Source: [The Atlantic](http://www.theguardian.com/us-news/2015/feb/18/guantanamo
 ## Government surveillance
 
 * Major technology companies repeatedly take stances against government surveillance.
-http://blogs.wsj.com/digits/2014/06/24/microsofts-top-lawyer-slams-secret-surveillance-court/
+
+    * Twitter moves data servers from the US to Iceland so they don't have to comply with US secret warrants.
+    Source: [Beta News](http://betanews.com/2015/04/17/twitter-moves-non-us-accounts-to-ireland-away-from-the-nsa/)
+
+    * http://blogs.wsj.com/digits/2014/06/24/microsofts-top-lawyer-slams-secret-surveillance-court/
 
 * Members of the Senate Intelligence Committee often don't know about espionage programs until news outlets break the story.
 For example:
@@ -813,11 +909,21 @@ http://www.thedailybeast.com/articles/2014/12/24/no-north-korea-didn-t-hack-sony
 * Court rules the NSA spying program illegal under the Patriot Act.
 Source: [CNN](http://www.cnn.com/2015/05/07/politics/nsa-telephone-metadata-illegal-court/index.html), [The Guardian](http://www.theguardian.com/us-news/2015/may/07/nsa-phone-records-program-illegal-court)
 
+    Obama administration lawyers appeal to the secret FISA court to keep the programs running.
+    Source: [The Guardian](http://www.theguardian.com/world/2015/jun/09/obama-fisa-court-surveillance-phone-records)
 <!--* http://www.scmp.com/news/world/article/1796184/us-house-votes-terminate-nsas-metadata-dragnet-wake-snowden-revelations-->
 
 <!--
 Chelsea Manning's twitter account
 https://twitter.com/xychelsea
+-->
+
+<!--
+### The TSA
+
+http://www.newsnet5.com/news/national/tsa-failure-investigators-able-to-smuggle-weapons-past-airport-checks-in-95-percent-of-tests
+
+http://www.theatlantic.com/politics/archive/2015/06/the-tsa-doesnt-work-and-maybe-it-doesnt-matter/394673/?utm_source=SFFB
 -->
 
 <!--
