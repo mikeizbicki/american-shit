@@ -52,10 +52,10 @@ If you want to contribute (by fixing an error or adding new sources), please [cr
 * Members of the Senate Intelligence Committee often don't know about espionage programs until news outlets break the story.
 For example:
 
-    1. The Senate Intelligence Committee didn't know about the Bush administration's warrantless wiretapping which began in 2001 until the NY Times reported the story in 2005.
+    * The Senate Intelligence Committee didn't know about the Bush administration's warrantless wiretapping which began in 2001 until the NY Times reported the story in 2005.
 Source: [The Atlantic](http://www.theatlantic.com/politics/archive/2014/10/congress-still-has-now-idea-how-much-the-nsa-spies-on-americans/382114/)
 
-    2. Former CIA Director Leon Panetta describes being summoned to a White House meeting and cussed out by President Obama’s chief of staff after he agreed to give the Senate intelligence committee access to documents chronicling the agency’s use of torture during the Bush administration.
+    * Former CIA Director Leon Panetta describes being summoned to a White House meeting and cussed out by President Obama’s chief of staff after he agreed to give the Senate intelligence committee access to documents chronicling the agency’s use of torture during the Bush administration.
 Source: [First Look](https://firstlook.org/theintercept/2014/10/07/panetta-says-rahm-emanuel-cussed-cooperating-senate-torture-inquiry/)
 
 * Major technology companies repeatedly take stances against government surveillance.
