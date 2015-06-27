@@ -210,7 +210,9 @@ Search for the string Citizenfour.
 
 * Snowden conducted an [Ask me Anything (AMA)](https://np.reddit.com/r/IAmA/comments/2wwdep/we_are_edward_snowden_laura_poitras_and_glenn/courx1i?context=3) on reddit.
 
-* Snoden living in Russia; [Snowden given 3 yr residence permit](http://rt.com/news/178680-snowden-stay-russia-residence/); Snowden sought asylum in 21 other countries first, but due to US pressue, these countries refused to grant him asylum [Sputnik News](http://sputniknews.com/us/20150306/1019163627.html)
+* Snoden currently has a [3 year residence permit](http://rt.com/news/178680-snowden-stay-russia-residence/) to live in Russia.
+Before moving to Russia, Snowden sought asylum in 21 other countries.
+But due to US pressure, these countries [refused to grant him asylum](http://sputniknews.com/us/20150306/1019163627.html).
 
 * [video](http://www.washingtonpost.com/news/morning-mix/wp/2015/04/06/john-olivers-hilarious-interview-with-edward-snowden/?postshare=6431428321618452) John Oliver interviews Snowden.
 
