@@ -49,13 +49,6 @@ If you want to contribute (by fixing an error or adding new sources), please [cr
 
 ## Government surveillance
 
-* Major technology companies repeatedly take stances against government surveillance.
-
-    * Twitter moves data servers from the US to Iceland so they don't have to comply with US secret warrants.
-    Source: [Beta News](http://betanews.com/2015/04/17/twitter-moves-non-us-accounts-to-ireland-away-from-the-nsa/)
-
-    * http://blogs.wsj.com/digits/2014/06/24/microsofts-top-lawyer-slams-secret-surveillance-court/
-
 * Members of the Senate Intelligence Committee often don't know about espionage programs until news outlets break the story.
 For example:
 
@@ -64,6 +57,14 @@ Source: [The Atlantic](http://www.theatlantic.com/politics/archive/2014/10/congr
 
     2. Former CIA Director Leon Panetta describes being summoned to a White House meeting and cussed out by President Obama’s chief of staff after he agreed to give the Senate intelligence committee access to documents chronicling the agency’s use of torture during the Bush administration.
 Source: [First Look](https://firstlook.org/theintercept/2014/10/07/panetta-says-rahm-emanuel-cussed-cooperating-senate-torture-inquiry/)
+
+* Major technology companies repeatedly take stances against government surveillance.
+
+    * Twitter moves data servers from the US to Iceland so they don't have to comply with US secret warrants.
+    Source: [Beta News](http://betanews.com/2015/04/17/twitter-moves-non-us-accounts-to-ireland-away-from-the-nsa/)
+
+    * After Google discovered that the NSA had wiretaps on the connections between Google data centers, Google began encrypting the communication to prevent eavesdropping.
+    Source: [ZDNet](http://www.zdnet.com/article/google-engineers-rage-at-nsa/)
 
 * Court rules the NSA spying program illegal under the Patriot Act.
 Source: [CNN](http://www.cnn.com/2015/05/07/politics/nsa-telephone-metadata-illegal-court/index.html), [The Guardian](http://www.theguardian.com/us-news/2015/may/07/nsa-phone-records-program-illegal-court)
