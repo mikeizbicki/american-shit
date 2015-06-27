@@ -166,6 +166,14 @@ The Baltimore police department, for example, has used this capability more than
 The department can use the devices without court authorization.
 Source: [The Baltimore Sun](http://www.baltimoresun.com/news/maryland/crime/blog/bs-md-ci-stingray-new-disclosures-20150420-story.html)
 
+<!--
+* H.R. 4681 Source: [Congress.gov](https://www.congress.gov/bill/113th-congress/house-bill/4681)
+-->
+
+* The Electronic Communications Privacy Act (ECPA) lets law enforcement read any emails without a warrant or probable cause.
+The only requirement is the email be older than 180 days.
+Source: [The Electronic Frontier Foundation](https://www.eff.org/deeplinks/2013/05/update-email-privacy-law-must-go-further), [The McClatchy DC](http://www.mcclatchydc.com/2015/02/11/256304/government-wonders-whats-in-your.html)
+
 <!------------------------------------->
 
 ### Important people speak out against surveillance
@@ -403,15 +411,7 @@ Source: [The Intercept](https://firstlook.org/theintercept/2014/11/18/media-outl
 
 * [video](https://www.youtube.com/watch?v=JzYbY1PmscM) Obama tells jokes about drone strikes.
 
-* [video](https://www.youtube.com/watch?v=ZDSNqow4SwM) US drones kill more people than ISIS
-
-<!--
-* H.R. 4681 Source: [Congress.gov](https://www.congress.gov/bill/113th-congress/house-bill/4681)
-
-* The Electronic Communications Privacy Act (ECPA) lets law enforcement read any emails without a warrant or probable cause.
-The only requirement is the email be older than 180 days.
-Source: [The Electronic Frontier Foundation](https://www.eff.org/deeplinks/2013/05/update-email-privacy-law-must-go-further), [The McClatchy DC](http://www.mcclatchydc.com/2015/02/11/256304/government-wonders-whats-in-your.html)
--->
+* [video](https://www.youtube.com/watch?v=ZDSNqow4SwM) US drones kill more people than ISIS.
 
 <!------------------------------------>
 
