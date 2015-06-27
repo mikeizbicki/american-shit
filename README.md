@@ -156,12 +156,15 @@ Source: [PureVPN](http://www.purevpn.com/blog/the-microphone-and-webcam-in-your-
 * NSA places hardware bugs in American products.
 Source: [CBC](http://www.cbc.ca/news/world/cisco-ceo-lashes-out-at-nsa-tells-obama-to-stop-bugging-it-hardware-1.2647079)
 
-* Federal judge rules that citizens have a right to know about the FBI's facial recognition and biomedical database.
-http://www.nextgov.com/cybersecurity/2014/11/federal-judge-says-public-has-right-know-about-fbis-facial-recognition-database/98453/
-https://www.techdirt.com/articles/20141111/11525429108/federal-judge-says-public-has-right-to-know-about-fbis-biometric-database-awards-20000-legal-fees-to-foia-requester.shtml
+* The FBI keeps facial recognition databases.
+Source: [NextGov](http://www.nextgov.com/cybersecurity/2014/11/federal-judge-says-public-has-right-know-about-fbis-facial-recognition-database/98453/),
+[TechDirt](https://www.techdirt.com/articles/20141111/11525429108/federal-judge-says-public-has-right-to-know-about-fbis-biometric-database-awards-20000-legal-fees-to-foia-requester.shtml)
 
-* Local Baltimore law enforcement has secret cellphone interceptors.
-http://www.theverge.com/2015/4/20/8459193/stingray-cellphone-interceptor-baltimore-25000-times
+* Local police forces can intercept arbitrary cell phone calls using the [StingRay](https://en.wikipedia.org/wiki/Stingray_phone_tracker).
+This device creates fake cell towers for phones to connect to.
+The Baltimore police department, for example, has used this capability more than 4,300 times.
+The department can use the devices without court authorization.
+Source: [The Baltimore Sun](http://www.baltimoresun.com/news/maryland/crime/blog/bs-md-ci-stingray-new-disclosures-20150420-story.html)
 
 <!------------------------------------->
 
