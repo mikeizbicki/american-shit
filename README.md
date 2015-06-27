@@ -600,27 +600,24 @@ Source: [Mother Jones](http://www.motherjones.com/politics/2014/08/ferguson-st-l
 * [DEA Steals $16,000 In Cash From Young Black Man, Because He Must Be A Drug Dealer](http://www.huffingtonpost.com/2015/05/07/dea-asset-forfeiture-joseph-rivers_n_7231744.html)
 
 [A Black Male With A Degree And A White High School Grad Have The Same Chances Of Getting A Job](http://www.huffingtonpost.com/2014/06/27/racial-education-gap_n_5537530.html)
-
-* During the Korean War, North Korean spread propaganda explaining why blacks shouldn't fight in Korea.
-Here is scan of their leaflets:
-http://imgur.com/a/nMpLZ
 -->
 
+* During the Korean War, North Korean spread propaganda explaining why blacks shouldn't fight in Korea.
+[Here is scan of their leaflets](http://imgur.com/a/nMpLZ).
+
 <!--
-<!------------------------------------>
 
 ### Other police abuses of power
 
-[Police Use Department Wish List When Deciding Which Assets to Seize](http://www.nytimes.com/2014/11/10/us/police-use-department-wish-list-when-deciding-which-assets-to-seize.html)
-
-http://www.eastbayexpress.com/oakland/counter-terrorism-officials-helped-track-black-lives-matter-protesters/Content?oid=4247605
-
-<!------------------------------------>
-
-### Overpolicing
+* [Civil forfeiture](https://en.wikipedia.org/wiki/Civil_forfeiture_in_the_United_States) is the legal procedure by which police can take property from civilians who are not accused of any crime.
+Police officer are told to use a "department wish list" when deciding which assets to seize from people.
+Source: [The NYTimes](http://www.nytimes.com/2014/11/10/us/police-use-department-wish-list-when-deciding-which-assets-to-seize.html)
 
 * NYPD's Aggressive Hunt for the Brooklyn Bridge Pranksters Is About Embarrassment, Not Counterterrorism
 https://news.vice.com/article/nypds-aggressive-hunt-for-the-brooklyn-bridge-pranksters-is-about-embarrassment-not-counterterrorism
+
+* Counterterrorism experts were used to help track #blacklivesmatter protestors in the East Bay.
+Source: [East Bay Express](http://www.eastbayexpress.com/oakland/counter-terrorism-officials-helped-track-black-lives-matter-protesters/Content?oid=4247605)
 
 [America’s over-policing bombshell: How new data proves “stop & frisk” critics were right all along](http://www.salon.com/2015/01/10/americas_over_policing_bombshell_how_new_data_proves_stop_frisk_critics_were_right_all_along/)
 
@@ -636,10 +633,10 @@ http://thinkprogress.org/justice/2014/12/10/3468340/jump-outs/
 * The NYPD uses the same special task force for counterterrorism and managing protests.
 Source: [NYPost](http://nypost.com/2015/01/30/nypd-to-launch-a-beefed-up-counterterrorism-squad/)
 
-* [video](https://www.youtube.com/watch?v=KUdHIatS36A) John Oliver explains the racially heated police militarization in Ferguson.
-
 * Internal plans created by the National Guard referred to Ferguson protesters as "enemy forces."
 Source: [The Guardian](http://www.theguardian.com/us-news/2015/apr/17/missouri-national-guard-ferguson-protesters-email)
+
+* [video](https://www.youtube.com/watch?v=KUdHIatS36A) John Oliver explains the racially heated police militarization in Ferguson.
 
 <!--
 * Drone technology percolates down to local law enforcement agencies.
