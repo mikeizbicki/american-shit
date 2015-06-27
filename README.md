@@ -1,8 +1,9 @@
-# America's Shit
+# American Shit
 
-The United States has many problems.
-This is my personal collection of primary and secondary sources documenting these problems.
+Many shitty things happen in the United States.
+This is my personal collection of primary and secondary sources documenting this shit.
 
+This list is very incomplete.
 If you want to contribute (by fixing an error or adding new sources), please [create an issue](https://github.com/mikeizbicki/bad-america/issues/new) or a pull request.
 
 <!----------------------------------------------------------------------------->
@@ -11,24 +12,21 @@ If you want to contribute (by fixing an error or adding new sources), please [cr
 
 * [Government surveillance](#government-surveillance)
     * [What whistleblowers have revealed](#what-whistleblowers-have-revealed)
-        * [Abuses](#revealed-abuses)
+        * [Abuses](#abuses)
         * [Lies and half-truth told by government officials](#lies-and-half-truths-told-by-government-officials)
-        * [Capabilities](#spying-capabilities)
+        * [Capabilities](#capabilities)
     * [The chilling effect of surveillance](#the-chilling-effect-of-surveillance)
-    * [Important people](#imporant-people)
+    * [Important people speak out against surveillance](#important-people-speak-out-against-surveillance)
         * [Edward Snowden](#edward-snowden)
         * [Other wistleblowers](#other-whistleblowers)
-        * [Famous polititans speak out against surveillance](#famous-politians-speak-out)
-
 * [Military](#military)
     * [Spending](#spending)
     * [Middle and Far East](#middle-and-far-east)
-        * [Iraq and Afghanistan](iraq-and-afghanistan)
-        * [Detainee abuse](#detainee-abuse)
+        * [Iraq and Afghanistan](#iraq-and-afghanistan)
+        * [Mistreatment of detainees](#mistreatment-of-detainees)
         * [Guantanamo Bay](#guantanamo-bay)
         * [Drone strikes](#drone-strikes)
     * [Latin America](#latin-america)
-
 * [Police](#police)
     * [Police brutality](#police-brutality)
         * [Selected incidents](#selected-incidents)
@@ -38,12 +36,10 @@ If you want to contribute (by fixing an error or adding new sources), please [cr
     * [Punishment](#punishment)
         * [Double standards](#double-standards)
         * [Excessive punishment for minor crimes](#excessive-punishment)
-        * [Prison conditions are awful](#prison-conditions-are-awful)
+        * [Prison conditions](#prison-conditions)
         * [Chicago's Homan Square facility](#chicagos-homan-square)
-
 * [Propaganda](#propaganda)
     * [Censorship](#censorship)
-
 * [Wealth and corporations](#wealth-and-corporations)
     * [Poor treatment of the homeless](#poor-treatment-of-the-homeless)
     * [Corporations and the environment](#corporations-and-the-environment)
@@ -170,6 +166,19 @@ http://www.theverge.com/2015/4/20/8459193/stingray-cellphone-interceptor-baltimo
 
 ### Important people
 
+* President Jimmy Carter says surveillance has "gone too far".
+Source: [Huffington Post](http://www.huffingtonpost.com/2015/01/13/jimmy-carter-surveillance_n_6464408.html)
+
+* Former NSA Chief calls NSA data sharing program the "biggest threat since the civil war."
+Source: [The Tenth Amendment Center](http://blog.tenthamendmentcenter.com/2014/09/former-nsa-chief-calls-nsa-data-sharing-biggest-threat-since-civil-war/)
+
+* The Congressman Michael Burgess (R-Tex) was a strong supporter of the Patriot Act when it first came out in 2001.
+He credits the Snowden leaks with making him dislike the Patriot Act.
+Source: [The Intercept](https://firstlook.org/theintercept/2015/05/13/conservative-gop-congressman-explains-snowden-learning-nsa-used-patriot-act-provisions/)
+
+* The American Library Association has a policy against recording what books patrons checkout due to the potential for the information's abuse.
+Source: [The Washington Post](http://www.washingtonpost.com/blogs/the-switch/wp/2014/10/03/librarians-wont-stay-quiet-about-government-surveillance/?tid=rssfeed)
+
 <!----------------->
 
 #### Edward Snowden:
@@ -187,7 +196,7 @@ Source: [NBC](http://www.nbcnews.com/feature/edward-snowden-interview/edward-sno
 If Snowden were to come back to the US for a trial, however, national security laws would prevent him from offering any evidence in his own defense.
 Source: [The Guardian](http://www.theguardian.com/commentisfree/2014/may/30/daniel-ellsberg-snowden-fair-trial-kerry-espionage-act)
 
-* [video] In a video interview, Snowden says: "If I end up in chains in Guantanamo, I can live with that."
+* In a video interview, Snowden says: "If I end up in chains in Guantanamo, I can live with that."
 Source: [The Guardian](http://www.theguardian.com/world/video/2014/jul/17/edward-snowden-video-interview)
 
 * The film Citizenfour about Snowden's disclosures wins the best Oscar for best documentary feature.
@@ -212,23 +221,6 @@ Source: [The Chicago Tribune](http://www.chicagotribune.com/news/nationworld/chi
 
 * At least 80% of all audio calls, not just metadata, are recorded and stored in the US according to whistleblower William Binney.
 Source: [The Guardian](http://www.theguardian.com/commentisfree/2014/jul/11/the-ultimate-goal-of-the-nsa-is-total-population-control), [RT](http://rt.com/news/172284-nsa-stores-calls-audio/)
-
-<!----------------->
-
-#### Famous politicians speak out
-
-* President Jimmy Carter says surveillance has "gone too far".
-Source: [Huffington Post](http://www.huffingtonpost.com/2015/01/13/jimmy-carter-surveillance_n_6464408.html)
-
-* Former NSA Chief calls NSA data sharing program the "biggest threat since the civil war."
-Source: [The Tenth Amendment Center](http://blog.tenthamendmentcenter.com/2014/09/former-nsa-chief-calls-nsa-data-sharing-biggest-threat-since-civil-war/)
-
-* The Congressman Michael Burgess (R-Tex) was a strong supporter of the Patriot Act when it first came out in 2001.
-He credits the Snowden leaks with making him dislike the Patriot Act.
-Source: [The Intercept](https://firstlook.org/theintercept/2015/05/13/conservative-gop-congressman-explains-snowden-learning-nsa-used-patriot-act-provisions/)
-
-* The American Library Association has a policy against recording what books patrons checkout due to the potential for the information's abuse.
-Source: [The Washington Post](http://www.washingtonpost.com/blogs/the-switch/wp/2014/10/03/librarians-wont-stay-quiet-about-government-surveillance/?tid=rssfeed)
 
 <!------------------------------------->
 
@@ -379,7 +371,7 @@ http://www.salon.com/2014/12/16/america_nation_of_torturers_stop_saying_this_isn
 
 <!------------------------------------>
 
-#### Drones Strikes
+#### Drone strikes
 
 * As of January 2015, the Obama administration has confirmed launching 456 drone strikes killing 2464 people in Pakistan, Yemen, and Somalia.
 This is more than double the casualty rate during the Bush administration.
@@ -506,7 +498,7 @@ Nevertheless, a police officer puts Eric Garner in a choke hold, killing him.
 Witnesses report the victim was saying "I can't breathe" to the officer.
 Source: [The NYTimes](http://www.nytimes.com/2014/12/04/nyregion/grand-jury-said-to-bring-no-charges-in-staten-island-chokehold-death-of-eric-garner.html)
 
-* [video] Police shoot Walter Scott.
+* Police shoot Walter Scott.
 He is unarmed and fleeing.
 Source: [The NY Times](http://www.nytimes.com/2015/05/16/us/dzhokhar-tsarnaev-death-sentence.html?rref=us&module=ArrowsNav&contentCollection=U.S.&action=keypress&region=FixedRight&pgtype=article)
 
@@ -689,7 +681,7 @@ The Washington Post created [a map of where those prisoners live](http://www.was
 
 <!----------------->
 
-#### Double standards on punishment
+#### Double standards
 
 * General Petraeus was Chairman of the Joint Chiefs of Staff and the director of the CIA.
 He illegally leaked classified documents to Paula Broadwell (a reporter and also his girlfriend).
@@ -721,6 +713,12 @@ Three other police officers, a police negotiator, and two civilians who were at 
 The shooting officer is never charged.
 Source: [CBC](http://www.cbc.ca/news/world/in-fairfax-va-a-different-no-less-scary-police-shooting-1.2960995)
 
+* When an innocent traveller asks to file a complaint against a TSA officer, he is thrown in jail.
+Later, the same TSA officer testifies under oath that the traveller was acting rowdy and making bomb threats.
+Video evidence, however, shows the TSA officer is lying.
+The officer is not fired for his misconduct.
+Source: [Philly](http://articles.philly.com/2015-02-05/news/58800950_1_carry-on-bag-screener-terminal-b)
+
 <!----------------->
 
 #### Excessive punishment
@@ -734,12 +732,6 @@ Source: [Local TV Station KWTX](http://www.kwtx.com/ourtown/home/headlines/Kille
 * A UN report on torture says life sentences for youth are cruel, inhumane and degrading.
 The United States is the only country in the world to imprison kids for life without parole.
 Source: [Al Jazeera](http://america.aljazeera.com/articles/2015/3/9/un-expert-slams-us-as-only-nation-to-sentence-kids-to-life-without-parole.html)
-
-* When an innocent traveller asks to file a complaint against a TSA officer, he is thrown in jail.
-Later, the same TSA officer testifies under oath that the traveller was acting rowdy and making bomb threats.
-Video evidence, however, shows the TSA officer is lying.
-The officer is not fired for his misconduct.
-Source: [Philly](http://articles.philly.com/2015-02-05/news/58800950_1_carry-on-bag-screener-terminal-b)
 
 * Crimes involving computers carry absurdly harsh penalties.
 For example:
@@ -761,7 +753,7 @@ http://www.theguardian.com/us-news/2015/jun/23/fbi-evidence-single-hair-kirk-odo
 
 <!----------------->
 
-#### Prisons conditions are awful
+#### Prison conditions
 
 * Prison guards kill a black inmate by burning his skin off with scolding hot water.
 The guards are not prosecuted.
@@ -808,7 +800,7 @@ http://www.counterpunch.org/2014/06/05/empire-of-prisons/
 https://freejeremy.net/2014/10/20/jeremy-in-solitary-here-is-what-we-know/
 -->
 
-#### Chicago Homan Square
+#### Chicago's Homan Square
 
 * Chicago police maintain a "black site" called Homan Square where citizens are detained without being charged for a crime.
 One former detainee claims to have been sexually abused by the police while held in Homan square illegally.
@@ -868,7 +860,7 @@ Source: [PC Magazine](http://www.pcmag.com/article2/0,2817,2391046,00.asp)
 
 <!----------------------------------------------------------------------------->
 
-## Corporatism:
+## Wealth and corporatism:
 
 * Every year, corporations fail to pay an estimated 40-60 billion dollars that they legally owe to low income workers across the country.
 This failure to pay is known as "wage theft."
@@ -880,19 +872,12 @@ Many law enforcement agencies have become private corporations, however, in orde
 Source: [The Washington Post](http://www.washingtonpost.com/news/the-watch/wp/2014/06/26/massachusetts-swat-teams-claim-theyre-private-corporations-immune-from-open-records-laws/)
 [Wall Street banks award executives millions of dollars for getting in government positions](http://www.newrepublic.com/article/120967/wall-street-pays-bankers-work-government-and-wants-it-secret)
 
-* ["Wal-Mart's low wages have led to full-time employees seeking public assistance....They receive $2.66 billion in government help each year "](http://www.bloombergview.com/articles/2013-12-18/always-low-wages-wal-mart-s-other-choices)
+* Full time employees at Wal-Mart still require public assistance due to their low wages.
+They receive $2.66 billion in government help each year.
+Source: [Bloomberg](http://www.bloombergview.com/articles/2013-12-18/always-low-wages-wal-mart-s-other-choices)
 
 * In the "Kids for Cash" scandal, two Pennsylvania judges were bribed into sentencing thousands of children to private prisons.
 Source: [Wikipedia](http://en.wikipedia.org/wiki/Kids_for_cash_scandal) has a number of details and references.
-
-* Why is marijuana illegal?
-The top 5 special interest groups lobbying to keep it illegal are:
-police unions,
-private prison corporations,
-alcohol companies,
-pharmeceutical companies,
-and prison guard unions.
-Source: [Republic Report](http://www.republicreport.org/2012/marijuana-lobby-illegal)
 
 * A headphone manufacturer deliberately adds a new piece to a line of headphones to make them sounds worse.
 This is their new product line (which they sell for less) to compete with lower-range headphones from other manufacturers.
@@ -936,26 +921,38 @@ Many believe the bill would help large corporations at the expense of small busi
 During the debate for the bill, corporations donate $1.1 million dollars in campaign funding to congressman to secure the bill's passing.
 Source: [The Guardian](http://www.theguardian.com/business/2015/may/27/corporations-paid-us-senators-fast-track-tpp)
 
+* Why is marijuana illegal?
+The top 5 special interest groups lobbying to keep it illegal are:
+police unions,
+private prison corporations,
+alcohol companies,
+pharmeceutical companies,
+and prison guard unions.
+Source: [Republic Report](http://www.republicreport.org/2012/marijuana-lobby-illegal)
+
 <!------------------------------------->
 
-### Homeless
-
-* People who feed the homeless are regularly harassed and arrested by police.
-See for example: [Raw Story](http://www.rawstory.com/2014/11/undeterred-by-arrest-90-year-old-florida-man-gets-another-citation-for-feeding-the-homeless/), [khon2](http://khon2.com/2014/11/03/90-year-old-florida-man-arrested-for-feeding-the-homeless/).
+### Treatment of the homeless
 
 * In many UC cities, it is de facto illegal to be homeless.
-Citywide behavioral bans prohibit sleeping in public, begging in public, loitering, sitting or lying down in public spaces, food sharing, and sleeping in vehicles, among other behaviors.
-Source: [MSNBC](http://www.msnbc.com/hardball/criminalization-homelessness-the-rise-us-cities), [Think Progress](http://thinkprogress.org/economy/2014/09/22/3570021/florida-city-criminalizes-homelessness/), http://homelesshatelaws.blogspot.com/2014/11/food-sharings-shut-down-1122014-hunger.html, http://americancynic.net/log/2015/1/1/eight_outdoor_homeless_deaths_during_2014_in_boulder_co_where_it_is_illegal_to_use_a_blanket_for_warmth/
+187 major cities have bans on:  sleeping in public, begging in public, sitting in public, lying down in public, food sharing, and sleeping in vehicles.
+See for example:
+[MSNBC](http://www.msnbc.com/hardball/criminalization-homelessness-the-rise-us-cities),
+[Homeless State Laws blog](http://homelesshatelaws.blogspot.com/2014/11/food-sharings-shut-down-1122014-hunger.html),
+[Think Progress](http://thinkprogress.org/economy/2014/09/22/3570021/florida-city-criminalizes-homelessness/),
+[American Cynic](http://americancynic.net/log/2015/1/1/eight_outdoor_homeless_deaths_during_2014_in_boulder_co_where_it_is_illegal_to_use_a_blanket_for_warmth/)
 
-These behavioral laws are selectively enforced against the homeless or activists.
-For example, [sleeping outside for an iPhone is OK, but do it in furtherance of democratic expression and you’re in trouble](http://www.theguardian.com/commentisfree/2014/oct/27/occupy-democracy-london-parliament-square?CMP=twt_gu).
+    These behavioral laws are selectively enforced against the homeless and their advocates.
+    See for example, [The Guardian](http://www.theguardian.com/commentisfree/2014/oct/27/occupy-democracy-london-parliament-square?CMP=twt_gu).
 
-In Boulder Colorado it is illegal to use a blanket for warmth.
-http://americancynic.net/log/2015/1/1/eight_outdoor_homeless_deaths_during_2014_in_boulder_co_where_it_is_illegal_to_use_a_blanket_for_warmth/
+* People who feed the homeless are regularly harassed and arrested by police.
+See for example:
+[Raw Story](http://www.rawstory.com/2014/11/undeterred-by-arrest-90-year-old-florida-man-gets-another-citation-for-feeding-the-homeless/), [khon2](http://khon2.com/2014/11/03/90-year-old-florida-man-arrested-for-feeding-the-homeless/).
 
-* Businesses install "antihomelessness spikes"
-https://twitter.com/aptly_engineerd/status/583888547205128192
-http://www.theguardian.com/society/2014/jun/12/tesco-spikes-remove-regent-street-homeless-protests
+* Businesses install spikes around their storefronts to keep the homeless away.
+See for example:
+[twitter](https://twitter.com/aptly_engineerd/status/583888547205128192),
+[The Guardian](http://www.theguardian.com/society/2014/jun/12/tesco-spikes-remove-regent-street-homeless-protests)
 
 <!--[Russell Brand: $4 billion spent on elections, but feeding the homeless is illegal?](http://www.rawstory.com/rs/2014/11/russell-brand-4-billion-spent-on-elections-but-feeding-the-homeless-is-illegal/)
 -->
