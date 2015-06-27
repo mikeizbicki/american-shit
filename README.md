@@ -162,9 +162,10 @@ https://www.techdirt.com/articles/20141111/11525429108/federal-judge-says-public
 
 * Local Baltimore law enforcement has secret cellphone interceptors.
 http://www.theverge.com/2015/4/20/8459193/stingray-cellphone-interceptor-baltimore-25000-times
+
 <!------------------------------------->
 
-### Important people
+### Important people speak out against surveillance
 
 * President Jimmy Carter says surveillance has "gone too far".
 Source: [Huffington Post](http://www.huffingtonpost.com/2015/01/13/jimmy-carter-surveillance_n_6464408.html)
