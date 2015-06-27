@@ -10,9 +10,11 @@ If you want to contribute (by fixing an error or adding new sources), please [cr
 ## Table of contents:
 
 * [Foreign affairs](#foreign-policy)
-    * [Guantanamo Bay](#guantanamo-bay)
-    * [Drone strikes](#drone-strikes)
-    * [Iraq/Afghanistan](#iraqafghanistan)
+    * [Middle and Far East](#middle-far-east)
+        * [Iraq/Afghanistan](#iraqafghanistan)
+        * [Detainee abuse](#detainee-abuse)
+            * [Guantanamo Bay](#guantanamo-bay)
+        * [Drone strikes](#drone-strikes)
     * [South America](#south-america)
 * [Police](#police)
     * [Police brutality](#police-brutality)
@@ -34,7 +36,7 @@ If you want to contribute (by fixing an error or adding new sources), please [cr
     * [Revealed abuses](#revealed-abuses)
     * [Revealed capabilities](#spying-capabilities)
     * [Positive outcomes of whistleblowing](#positive-outcomes-of-whistleblowing)
-* [Corpratism](#corpratism)
+* [Corporatism](#corpratism)
     * [Poor treatment of the homeless](#poor-treatment-of-the-homeless)
 
 
@@ -42,23 +44,78 @@ If you want to contribute (by fixing an error or adding new sources), please [cr
 
 ## Foreign Policy
 
-* After Hurricane Katrina, the US government refused foreign aide from Cuba and Venezuela.
-This aide would have included:
-mobile hospitals,
-water treatments plants,
-1500 doctors,
-and 26.4 tons of medicine.
-Source: [The BBC](http://news.bbc.co.uk/2/hi/uk_news/4344168.stm)
+<!------------------------------------>
+
+### Iraq/Afghanistan
+
+* As of 2015, the [Iraq Body Count](https://www.iraqbodycount.org/) has recorded more than 140,000 violent civilian deaths in Iraq as a result of the invasion.
+In an initial report covering the first two years of the war, the IBC reports that US air strikes caused the largest share of civilian casualties at 37%.
+Many analysts debate these numbers, saying they are either too small or too large.
+Wikipedia has a [pretty good summary](https://en.wikipedia.org/wiki/Casualties_of_the_Iraq_War) of the various body counts and their methodology.
+
+* In 2004, the US bombed a wedding party in Mukaradeeb, Iraq.
+42 civilians were killed.
+Again in 2008, the US bombed a wedding party in Deh Bala, Afghanistan.
+47 civilians were killed.
+In both cases, the US military claims these were not wedding parties, but militant gatherings.
+Independent investigations, however, have proven the US military wrong.
+Source: [Wikipedia (Mukaradeeb)](https://en.wikipedia.org/wiki/Mukaradeeb_wedding_party_massacre), [Wikipedia (Deh Bala)](https://en.wikipedia.org/wiki/Deh_Bala_wedding_party_airstrike)
+
+* In 2007, Blackwater employees kill 17 civilians in the Nisour Massacre.
+One employee is convicted of murder, and three others of manslaughter.
+Source: [The Guardian](http://www.theguardian.com/us-news/2015/apr/13/former-blackwater-guards-sentencing-baghdad-massacre) and [Wikipedia](https://en.wikipedia.org/wiki/Nisour_Square_massacre)
+
+* In 2011, a small team of US soldiers plead guilty to killing Afghan civilians for sport.
+Source: [The Guardian](http://www.theguardian.com/world/2011/mar/23/us-soldier-admits-killing-afghans)
+
+* In 2010, WikiLeaks released the [Afghan War Diary](https://www.wikileaks.org/wiki/Afghan_War_Diary,_2004-2010), a collection of classified military operations in Afghanistan.
+These reports detail a number of previously unknown civilian casualties caused by the recklessness of coalition troops and paramilitary forces.
+The Pentagon criticized WikiLeaks for releasing the documents without proper redaction.
+But WikiLeaks contacted the Pentagon asking for help redacting the documents and the Pentagon refused.
+Wikipedia has an [excellent summary](https://en.wikipedia.org/wiki/Afghan_War_documents_leak) of information learned from the leaks.
+
+    In 2010, WikiLeaks released the [Iraq War Logs](https://wikileaks.org/irq/), a collection of classified military operations in Iraq.
+    These documents describe a number of abuses by both American forces (e.g. under reporting civilian casualties, counting journalists as enemy combatants, killings by civilian contractors) and Iraqi security forces (e.g. torturing of prisoners, summary executions).
+    Wikipedia has an [excellent summary](https://en.wikipedia.org/wiki/Iraq_War_documents_leak) of information learned from the leaks, including detailed sourcing.
+
+    Both series of leaks were provided by [Specialist Manning](https://en.wikipedia.org/wiki/Chelsea_Manning), an intelligence analyst for the US Army.
+    Manning was sentenced to 35 years in prison.
+    Then Assistant Secretary of State [Philip Crowley](https://en.wikipedia.org/wiki/Philip_J._Crowley) accuses the US military of abusing Manning while in detention and is forced to resign his post.
+    Wikipedia has a [detailed summary](https://en.wikipedia.org/wiki/Chelsea_Manning) of Manning's case.
+
+* The ADE651 claims to be a device for detecting explosives and drugs, but it is an obvious fraud whose design is based on a $5 gag gift.
+The product brochure claims the device uses "nuclear quadropole resonance" to detect controlled substances, but the device contains no electronics and doesn't even take a battery.
+Sadly, the device was sold to the Iraqi military and was heavily used in Iraq at checkpoints.
+At one point, operators believed cologne was interfering with the device's operation, and so all perfume bottles had to be removed from vehicles before being searched.
+The device had a list price of $40,000 per unit, and more than 5000 units were sold to Iraq.
+Despite numerous arrests and proof of fraud, officials in Baghdad continue to defend the device.
+Source: [Vanity Fair](http://www.vanityfair.com/news/2015/06/fake-bomb-detectors-iraq)
+
+<!------------------------------------>
+
+#### Mistreatment of detainees
+
+* When the United States captured Al-Queda leader [Abu Zubaydah](https://en.wikipedia.org/wiki/Abu_Zubaydah)in 2002, Secretary of Defense Donald Rumsfeld authorized the use of "enhanced interrogation techniques" to extract information that might prevent future terrorist activity.
+According the Office of Legal Council, these enhanced interrogation techniques were legal as long as they didn't occur on American soil.
+Furthermore, according to the US, enhanced interrogation techniques do not constitute torture as long as the interrogator does not "have the specific intent to inflict severe pain or suffering".
+The memos authorizing these techniques are known as the [torture memos](https://en.wikipedia.org/wiki/Torture_memos).
+
+* In 2005, the CIA destroyed selected video tapes of the enhanced interrogations.
+The stated purpose was to protect the identity of the interrogators.
+The destruction did not follow proper guidelines, and was against the recommendation of White House lawyers.
+In a later investigation of the CIA's interrogations, Senator Feinstein (D-CA) reported that she suspected the CIA of destroying damning evidence.
+Wikipedia has a [good overview](https://en.wikipedia.org/wiki/2005_CIA_interrogation_tapes_destruction) with links to news sources.
+
+* In the Abu Ghraib prison scandal, it was revealed that US Army guards committed physical and sexual abuse, torture, rape, sodomy, and murder against Iraqi detainees.
+There's way too much for me to write about, but the [wikipedia article](https://en.wikipedia.org/wiki/Abu_Ghraib_torture_and_prisoner_abuse) provides an excellent summary of the scandal.
 
 * A Yemeni journalist proved that the US used cluster bombs to kill 35 women and children.
 Obama then successfully demanded the journalist be imprisoned for years.
 Source: [The Nation](http://www.thenation.com/article/166757/why-president-obama-keeping-journalist-prison-yemen)
 
-<!------------------------------------>
+#### Guantanamo Bay
 
-### Guantanamo Bay
-
-* [video] John Kiriakou was a CIA agent.
+* John Kiriakou was a CIA agent.
 He believed the "enhanced interrogation" techniques used in Guantanamo Bay were actually torture, and so he released information about them to the public.
 In particular, this is how the public learned about water boarding.
 Kirkiakou was sentenced to 2.5 years in prison.
@@ -80,6 +137,10 @@ He describes his abduction by the CIA and time at Guantanamo in a [NYTimes oped]
 
 * Metadata collection (as revealed by Snowden) was instrumental in finding suspects to be detained in Guantanamo.
 Source: [Ryan Gallagher](http://notes.rjgallagher.co.uk/2014/08/extraordinary-rendition-metadata-cia-erroneous.html)
+
+* The US government played music by Canadian industrial band Skinny Puppy as part of their enhanced interrogation techniques.
+The band sent an invoice to the US government charging $666,000 in royalty fees.
+Source: [Brooklyn Vegan](http://www.brooklynvegan.com/archives/2014/12/skinny_puppy_de.html)
 
 <!--
 ‘Extremely disturbing’ force-feeding tapes cited in Gitmo abuse case: Lawyers spent the weekend examining footage — one told Al Jazeera she now has ‘trouble sleeping’
@@ -121,54 +182,15 @@ Source: [The Electronic Frontier Foundation](https://www.eff.org/deeplinks/2013/
 
 <!------------------------------------>
 
-### Iraq/Afghanistan
-
-* As of 2015, the [Iraq Body Count](https://www.iraqbodycount.org/) has recorded more than 140,000 violent civilian deaths in Iraq as a result of the invasion.
-In an initial report covering the first two years of the war, the IBC reports that US air strikes caused the largest share of civilian casualties at 37%.
-Many analysts debate these numbers, saying they are either too small or too large.
-Wikipedia has a [pretty good summary](https://en.wikipedia.org/wiki/Casualties_of_the_Iraq_War) of the various body counts and their methodology.
-
-* In 2004, the US bombed a wedding party in Mukaradeeb, Iraq.
-42 civilians were killed.
-Again in 2008, the US bombed a wedding party in Deh Bala, Afghanistan.
-47 civilians were killed.
-In both cases, the US military claims these were not wedding parties, but militant gatherings.
-Independent investigations, however, have proven the US military wrong.
-Source: [Wikipedia (Mukaradeeb)](https://en.wikipedia.org/wiki/Mukaradeeb_wedding_party_massacre), [Wikipedia (Deh Bala)](https://en.wikipedia.org/wiki/Deh_Bala_wedding_party_airstrike)
-
-* In 2007, Blackwater employees kill 17 civilians in the Nisour Massacre.
-One employee is convicted of murder, and three others of manslaughter.
-Source: [The Guardian](http://www.theguardian.com/us-news/2015/apr/13/former-blackwater-guards-sentencing-baghdad-massacre) and [Wikipedia](https://en.wikipedia.org/wiki/Nisour_Square_massacre)
-
-* A small team of US soldiers plead guilty to killing Afghan civilians for sport.
-Source: [The Guardian](http://www.theguardian.com/world/2011/mar/23/us-soldier-admits-killing-afghans)
-
-* In 2010, WikiLeaks released the [Afghan War Diary](https://www.wikileaks.org/wiki/Afghan_War_Diary,_2004-2010), a collection of classified military operations in Afghanistan.
-These reports detail a number of previously unknown civilian casualties caused by the wrecklessness of coalition troops and paramilitary forces.
-The Pentagon criticized WikiLeaks for releasing the documents without proper redaction.
-But WikiLeaks contacted the Pentagon asking for help redacting the documents and the Pentagon refused.
-Wikipedia has an [excellent summary](https://en.wikipedia.org/wiki/Afghan_War_documents_leak) of information learned from the leaks.
-
-    In 2010, WikiLeaks released the [Iraq War Logs](https://wikileaks.org/irq/), a collection of classified military operations in Iraq.
-    These documents describe a number of abuses by both American forces (e.g. under reporting civilian casualties, counting journalists as enemy combatants, killings by civilian contractors) and Iraqi security forces (e.g. torturing of prisoners, summary executions).
-    Wikipedia has an [excellent summary](https://en.wikipedia.org/wiki/Iraq_War_documents_leak) of information learned from the leaks, including detailed sourcing.
-
-    Both series of leaks were provided by [Specialist Manning](https://en.wikipedia.org/wiki/Chelsea_Manning), an intelligence analyst for the US Army.
-    Manning was sentenced to 35 years in prison.
-    Then Assistant Secretary of State [Philip Crowley](https://en.wikipedia.org/wiki/Philip_J._Crowley) accuses the US military of abusing Manning while in detention and is forced to resign his post.
-    Wikipedia has a [detailed summary](https://en.wikipedia.org/wiki/Chelsea_Manning) of Manning's case.
-
-* The ADE651 claims to be a device for detecting explosives and drugs, but it is an obvious fraud whose design is based on a $5 gag gift.
-The product brochure claims the device uses "nuclear quadropole resonance" to detect controlled substances, but the device contains no electronics and doesn't even take a battery.
-Sadly, the device was sold to the Iraqi military and was heavily used in Iraq at checkpoints.
-At one point, operators believed cologne was interfering with the device's operation, and so all perfume bottles had to be removed from vehicles before being searched.
-The device had a list price of $40,000 per unit, and more than 5000 units were sold to Iraq.
-Despite numerous arrests and proof of fraud, officials in Baghdad continue to defend the device.
-Source: [Vanity Fair](http://www.vanityfair.com/news/2015/06/fake-bomb-detectors-iraq)
-
-<!------------------------------------>
-
 ### South America
+
+* After Hurricane Katrina, the US government refused foreign aide from Cuba and Venezuela.
+This aide would have included:
+mobile hospitals,
+water treatments plants,
+1500 doctors,
+and 26.4 tons of medicine.
+Source: [The BBC](http://news.bbc.co.uk/2/hi/uk_news/4344168.stm)
 
 * US soldiers rape 54 Columbian, filmed the abuse, and sold the films.
 They are immune to prosecution due to American treaties.
@@ -208,13 +230,20 @@ Source: [Technical analusis on an engineer's blog](http://mikebeauchamp.com/misc
 
 * [The Secret Goldman Sachs Tapes](http://www.bloombergview.com/articles/2014-09-26/the-secret-goldman-sachs-tapes)
 
+<!------------------------------------->
+
+### Corporations in politics
+
+* The company [Crowds on Demand](http://crowdsondemand.com/services/political-services/) let's politicians hire people to show up at media events and claim to be grassroots supporters for candidates.
+Liberty Chat had a [brief under cover interview](http://libertychat.com/2015/06/rent-a-crowd-company-admits-politicians-are-using-their-service/).
+
 
 <!------------------------------------->
 
 ### Homeless
 
 * People who feed the homeless are regularly harassed and arrested by police.
-See for example [this story](http://www.rawstory.com/2014/11/undeterred-by-arrest-90-year-old-florida-man-gets-another-citation-for-feeding-the-homeless/).
+See for example: [Raw Story](http://www.rawstory.com/2014/11/undeterred-by-arrest-90-year-old-florida-man-gets-another-citation-for-feeding-the-homeless/), [khon2](http://khon2.com/2014/11/03/90-year-old-florida-man-arrested-for-feeding-the-homeless/).
 
 * In many UC cities, it is de facto illegal to be homeless.
 Citywide behavioral bans prohibit sleeping in public, begging in public, loitering, sitting or lying down in public spaces, food sharing, and sleeping in vehicles, among other behaviors.
@@ -226,17 +255,20 @@ For example, [sleeping outside for an iPhone is OK, but do it in furtherance of 
 In Boulder Colorado it is illegal to use a blanket for warmth.
 http://americancynic.net/log/2015/1/1/eight_outdoor_homeless_deaths_during_2014_in_boulder_co_where_it_is_illegal_to_use_a_blanket_for_warmth/
 
-[Russell Brand: $4 billion spent on elections, but feeding the homeless is illegal?](http://www.rawstory.com/rs/2014/11/russell-brand-4-billion-spent-on-elections-but-feeding-the-homeless-is-illegal/)
-
 * Businesses install "antihomelessness spikes"
 https://twitter.com/aptly_engineerd/status/583888547205128192
 http://www.theguardian.com/society/2014/jun/12/tesco-spikes-remove-regent-street-homeless-protests
+
+<!--[Russell Brand: $4 billion spent on elections, but feeding the homeless is illegal?](http://www.rawstory.com/rs/2014/11/russell-brand-4-billion-spent-on-elections-but-feeding-the-homeless-is-illegal/)
+-->
 
 <!--
 http://www.rawstory.com/2014/12/some-sort-of-hell-how-one-of-the-wealthiest-cities-in-america-treats-its-homeless/
 -->
 
+<!--
 http://www.citylab.com/housing/2015/06/every-single-county-in-america-is-facing-an-affordable-housing-crisis/396284/
+-->
 
 <!--
 <!------------------------------------>
@@ -413,11 +445,29 @@ Source: [Local TV Station KWTX](http://www.kwtx.com/ourtown/home/headlines/Kille
 
 http://america.aljazeera.com/articles/2015/3/9/un-expert-slams-us-as-only-nation-to-sentence-kids-to-life-without-parole.html
 
-Aaron Schwartz (compare to the "cash for kids" judges)
+* When an innocent traveller asks to file a complaint against a TSA officer, he is thrown in jail.
+Later, the same TSA officer testifies under oath that the traveller was acting rowdy and making bomb threats.
+Video evidence, however, shows the TSA officer is lying.
+The officer is not fired for his misconduct.
+Source: [Philly](http://articles.philly.com/2015-02-05/news/58800950_1_carry-on-bag-screener-terminal-b)
 
-https://www.reddit.com/r/nottheonion/comments/3328u6/cops_charge_man_with_destruction_of_police/
+* Crimes involving computers carry absurdly harsh penalties.
+For example:
+[Aaron Schwartz](https://en.wikipedia.org/wiki/Aaron_Swartz) was a computer programmer and important member of the open source community.
+In 2011, Aaron made thousands of research articles available to the public to download for free.
+He was charged with computer fraud and his maximum punishment would have been a million dollar fine plus 35 years in prison.
+After a lengthy legal process, Aaron committed suicide.
 
+<!--
+FIXME: Not enough evidence
+* A man in jail is beaten by police.
+He is subsequently charged with "distruction of police property" for bleeding on their uniforms.
+Source: [Filming Cops](http://filmingcops.com/cops-charge-man-with-destruction-of-police-property-for-bleeding-on-their-uniforms-after-they-beat-him/)
+-->
+
+<!--
 http://www.theguardian.com/us-news/2015/jun/23/fbi-evidence-single-hair-kirk-odom
+-->
 
 <!------------------------------------>
 
@@ -653,39 +703,12 @@ Source: [The Tenth Amendment Center](http://blog.tenthamendmentcenter.com/2014/0
 He credits the Snowden leaks with making him dislike the Patriot Act.
 Source: [The Intercept](https://firstlook.org/theintercept/2015/05/13/conservative-gop-congressman-explains-snowden-learning-nsa-used-patriot-act-provisions/)
 
-* [Librarians won’t stay quiet about government surveillance "When you return a book, the record is destroyed so that when the government comes we can say that we legitimately only know what you have out at the time." Emily Sheketoff, head of the American Library Association Washington office said](http://www.washingtonpost.com/blogs/the-switch/wp/2014/10/03/librarians-wont-stay-quiet-about-government-surveillance/?tid=rssfeed)
+* The American Library Association has a policy against recording what books patrons checkout due to the potential for the information's abuse.
+Source: [The Washington Post](http://www.washingtonpost.com/blogs/the-switch/wp/2014/10/03/librarians-wont-stay-quiet-about-government-surveillance/?tid=rssfeed)
 
 <!------------------------------------>
 
-### Revealed abuses
-
-* The CIA had a propaganda campaign which involved leaking classified information to sell torture
-Source: [Fire Dog Lake](http://dissenter.firedoglake.com/2014/12/10/cia-had-propaganda-campaign-which-involved-leaking-classified-information-to-sell-torture/)
-FIXME: find better source
-
-* PRISM is the name of a leaked program the government uses to collect information from major internet companies.
-(See [wikipedia](https://en.wikipedia.org/wiki/PRISM_%28surveillance_program%29) for more details.)
-The US Government threatened Yahoo! with $250K daily fine if they didn't implement PRISM.
-Source: [Ars Technica](http://arstechnica.com/tech-policy/2014/09/us-govt-threatened-yahoo-with-250k-daily-fine-if-it-didnt-use-prism/)
-
-* LavaBit is a secure email service.
-All of the stored emails are encrypted, so it's not physically possible for anyone (even the service's operators) to read the email.
-The FBI used national security letters to shut down this business.
-Source: [The Guardian](http://www.theguardian.com/commentisfree/2014/may/20/why-did-lavabit-shut-down-snowden-email)
-
-* The NSA has requested to secretly modify court documents.
-Source: [Yahoo News](http://news.yahoo.com/nsa-tried-delete-court-transcript-lawsuit-over-deleting-162014074.html)
-
-* The FBI and NSA track Muslim leaders.
-Source: [First Look](https://firstlook.org/theintercept/article/2014/07/09/under-surveillance/)
-
-    This is reminiscent of how the FBI tracked civil rights activists in the 1960s.
-    Source: [The Guardian](http://www.theguardian.com/books/2015/feb/09/fbi-monitored-african-american-writers-j-edgar-hoover)
-
-
-<!------------------------------------>
-
-#### Spying capabilities
+### Spying capabilities
 
 * NSA stole the encryption keys used in cellphone SIM cards.
 Source: [The Intercept](https://firstlook.org/theintercept/2015/02/19/great-sim-heist/)
@@ -706,9 +729,51 @@ https://www.techdirt.com/articles/20141111/11525429108/federal-judge-says-public
 * Local Baltimore law enforcement has secret cellphone interceptors.
 http://www.theverge.com/2015/4/20/8459193/stingray-cellphone-interceptor-baltimore-25000-times
 
+
 <!------------------------------------>
 
-### Lies and half-truths told by government officials
+### Bad consequences of espionage
+
+#### Abuses
+
+* Our spy agencies (which are under the executive branch) spy on members of Congress.
+
+    * When Senator Feinstein (D-CA) was investigating the CIA for abusing detainees, CIA operatives spied on her staff members and secretly deleted documents from their computers.
+    Source: [The NYTimes](http://www.nytimes.com/2014/08/01/world/senate-intelligence-commitee-cia-interrogation-report.html)
+
+    * There is strong evidence that in 2004, Attorney General Gabriel Gonzales used information gathered from an NSA wiretap to blackmail Congresswoman Jane Harman (D-CA) into supporting the illegal wiretap program.
+Source: [The Atlantic](http://www.theatlantic.com/politics/archive/2014/01/the-danger-of-nsa-spying-on-members-of-congress/282827/)
+
+* The CIA had a propaganda campaign which involved leaking classified information to sell torture.
+Source: [Fire Dog Lake](http://dissenter.firedoglake.com/2014/12/10/cia-had-propaganda-campaign-which-involved-leaking-classified-information-to-sell-torture/)
+FIXME: find better source
+
+* PRISM is the name of a leaked program the government uses to collect information from major internet companies.
+(See [wikipedia](https://en.wikipedia.org/wiki/PRISM_%28surveillance_program%29) for more details.)
+The US Government threatened Yahoo! with $250K daily fine if they didn't implement PRISM.
+Source: [Ars Technica](http://arstechnica.com/tech-policy/2014/09/us-govt-threatened-yahoo-with-250k-daily-fine-if-it-didnt-use-prism/)
+
+* The NSA has requested to secretly modify court documents.
+Source: [Yahoo News](http://news.yahoo.com/nsa-tried-delete-court-transcript-lawsuit-over-deleting-162014074.html)
+
+* The FBI and NSA track Muslim leaders.
+Source: [First Look](https://firstlook.org/theintercept/article/2014/07/09/under-surveillance/)
+
+    This is reminiscent of how the FBI tracked civil rights activists in the 1960s.
+    Source: [The Guardian](http://www.theguardian.com/books/2015/feb/09/fbi-monitored-african-american-writers-j-edgar-hoover)
+
+#### The chilling effect of government spying
+
+* The legal reporting website http://groklaw.net shuts down after the extent of NSA spying is revealed.
+The stated reason is that they can no longer ensure the safety of their sources.
+Source: [The Guardian](http://www.theguardian.com/technology/2013/aug/20/groklaw-shuts-nsa-surveillance)
+
+* LavaBit is a secure email service.
+All of the stored emails are encrypted, so it's not physically possible for anyone (even the service's operators) to read the email.
+The FBI used national security letters to shut down this business.
+Source: [The Guardian](http://www.theguardian.com/commentisfree/2014/may/20/why-did-lavabit-shut-down-snowden-email)
+
+#### Lies and half-truths told by government officials
 
 * The Justice Department lied to the Supreme Court about their surveillance programs.
 This caused the Supreme Court to dismiss the case.
@@ -732,6 +797,10 @@ Source: [Mother Jones](http://www.motherjones.com/kevin-drum/2014/07/nsa-said-ed
 This is false.
 Source: [Tech Dirt](https://www.techdirt.com/articles/20141019/07115528878/everybody-knows-fbi-director-james-comey-is-wrong-about-encryption-even-fbi.shtml)
 
+* Senator Feinstein (D-CA) accused the CIA of spying on her staff members because they were investigating abuses in the CIA's enhanced interrogation program.
+CIA director John Brennan denied the spying, saying "Nothing could be further from the truth."
+Source: [The NYTimes](http://www.nytimes.com/2014/03/12/us/cia-accused-of-illegally-searching-computers-used-by-senate-committee.html?_r=1) wherein Brennan denies the espionage and a follow up [NYTimes article](http://www.nytimes.com/2014/08/01/world/senate-intelligence-commitee-cia-interrogation-report.html) revealing that the CIA did it
+
 <!--
 No, NK didn't hack sony
 http://www.thedailybeast.com/articles/2014/12/24/no-north-korea-didn-t-hack-sony.html
@@ -744,7 +813,7 @@ http://www.thedailybeast.com/articles/2014/12/24/no-north-korea-didn-t-hack-sony
 * Court rules the NSA spying program illegal under the Patriot Act.
 Source: [CNN](http://www.cnn.com/2015/05/07/politics/nsa-telephone-metadata-illegal-court/index.html), [The Guardian](http://www.theguardian.com/us-news/2015/may/07/nsa-phone-records-program-illegal-court)
 
-* http://www.scmp.com/news/world/article/1796184/us-house-votes-terminate-nsas-metadata-dragnet-wake-snowden-revelations
+<!--* http://www.scmp.com/news/world/article/1796184/us-house-votes-terminate-nsas-metadata-dragnet-wake-snowden-revelations-->
 
 <!--
 Chelsea Manning's twitter account
