@@ -256,7 +256,14 @@ For example:
 
 ### Spending
 
-* The US Navy is designing the SSBNX submarine designed for the sole purpose of launching nuclear missiles.
+* In 2010, the Government Accountability Office (GAO) tried to audit the US military spending.
+They found that the finances were so mismanaged that an audit wasn't even possible.
+Source: [The GAO](http://www.gao.gov/press/financial_report_2010dec21.html)
+
+* The US spends more on the military than the next seven countries combined.
+Source: The [Peter G. Peterson Foundation](http://pgpf.org/Chart-Archive/0053_defense-comparison)
+
+* The US Navy is designing the [SSBNX](https://en.wikipedia.org/wiki/Ohio_Replacement_Submarine) submarine designed for the sole purpose of launching nuclear missiles.
 Currently the Navy is requesting 14 of these subs be built.
 The estimated lifetime cost for the subs is $347 billion over the course of 40 years.
 For comparison, the cost of tuition at the University of California is $53 thousand dollars for a four year bachelors degree.
