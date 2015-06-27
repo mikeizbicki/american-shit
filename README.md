@@ -996,7 +996,6 @@ http://www.theatlantic.com/politics/archive/2015/06/the-tsa-doesnt-work-and-mayb
 -->
 
 <!--
-<!----------------------------------------------------------------------------->
 
 # immigration
 
@@ -1005,7 +1004,6 @@ http://anarchistnews.org/content/2000-prisoners-riot-and-destroy-south-texas-imm
 Picture of Mexican and American citizens playing volleyball and using the border fence as a net.
 http://s3-ec.buzzfed.com/static/imagebuzz/web03/2010/5/14/14/usa-vs-mexico-border-volleyball-32258-1273862509-35.jpg
 
-<!----------------------------------------------------------------------------->
 
 # Media distortion
 
@@ -1013,7 +1011,6 @@ http://www.reddit.com/r/Anarchism/comments/344b3z/bystanders_try_to_keep_drunk_w
 
 http://www.dailykos.com/story/2014/12/23/1353803/-Fox-affiliate-apologizes-to-editing-protesters-chants-to-say-Kill-a-cop?
 
-<!----------------------------------------------------------------------------->
 
 # Misc History:
 
@@ -1035,7 +1032,6 @@ http://www.reddit.com/r/Anarchism/comments/2mszo6/november_19_1915_iww_organiser
 FBI tracked civil rights activists.
 http://www.theguardian.com/books/2015/feb/09/fbi-monitored-african-american-writers-j-edgar-hoover
 
-<!----------------------------------------------------------------------------->
 
 # Church
 
