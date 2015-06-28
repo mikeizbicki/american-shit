@@ -179,6 +179,9 @@ Source: [The Electronic Frontier Foundation](https://www.eff.org/deeplinks/2013/
 
 ### Important people speak out against surveillance
 
+* Many academic security researchers have spoken out against the NSA.
+See for example [this open letter](http://www.cs.bu.edu/~reyzin/wertheimer-letter.html) published in the ACM.
+
 * President Jimmy Carter says surveillance has "gone too far".
 Source: [Huffington Post](http://www.huffingtonpost.com/2015/01/13/jimmy-carter-surveillance_n_6464408.html)
 
