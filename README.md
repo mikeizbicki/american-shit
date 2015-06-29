@@ -82,6 +82,7 @@ Source: [CNN](http://www.cnn.com/2015/05/07/politics/nsa-telephone-metadata-ille
 #### Abuses
 
 * Our spy agencies (which are under the executive branch) spy on members of Congress.
+For example:
 
     * When Senator Feinstein (D-CA) was investigating the CIA for abusing detainees, CIA operatives spied on her staff members and secretly deleted documents from their computers.
     Source: [The NYTimes](http://www.nytimes.com/2014/08/01/world/senate-intelligence-commitee-cia-interrogation-report.html)
@@ -91,7 +92,7 @@ Source: [The Atlantic](http://www.theatlantic.com/politics/archive/2014/01/the-d
 
 * The CIA had a propaganda campaign which involved leaking classified information to sell torture.
 Source: [Fire Dog Lake](http://dissenter.firedoglake.com/2014/12/10/cia-had-propaganda-campaign-which-involved-leaking-classified-information-to-sell-torture/)
-FIXME: find better source
+<!--FIXME: find better source-->
 
 * PRISM is the name of a leaked program the government uses to collect information from major internet companies.
 (See [wikipedia](https://en.wikipedia.org/wiki/PRISM_%28surveillance_program%29) for more details.)
