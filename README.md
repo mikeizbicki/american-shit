@@ -67,6 +67,10 @@ For example:
     * After Google discovered that the NSA had wiretaps on the connections between Google data centers, Google began encrypting the communication to prevent eavesdropping.
     Source: [ZDNet](http://www.zdnet.com/article/google-engineers-rage-at-nsa/)
 
+    * The NSA's [PRISM](https://en.wikipedia.org/wiki/PRISM_%28surveillance_program%29) program collects information on users of major internet companies.
+Yahoo didn't want to implement the program, but the US government threatened Yahoo with a $250 thousand daily fine if they didn't implement it.
+Source: [Ars Technica](http://arstechnica.com/tech-policy/2014/09/us-govt-threatened-yahoo-with-250k-daily-fine-if-it-didnt-use-prism/)
+
 * Court rules the NSA spying program illegal under the Patriot Act.
 Source: [CNN](http://www.cnn.com/2015/05/07/politics/nsa-telephone-metadata-illegal-court/index.html), [The Guardian](http://www.theguardian.com/us-news/2015/may/07/nsa-phone-records-program-illegal-court)
 
@@ -93,11 +97,6 @@ Source: [The Atlantic](http://www.theatlantic.com/politics/archive/2014/01/the-d
 * The CIA had a propaganda campaign which involved leaking classified information to sell torture.
 Source: [Fire Dog Lake](http://dissenter.firedoglake.com/2014/12/10/cia-had-propaganda-campaign-which-involved-leaking-classified-information-to-sell-torture/)
 <!--FIXME: find better source-->
-
-* PRISM is the name of a leaked program the government uses to collect information from major internet companies.
-(See [wikipedia](https://en.wikipedia.org/wiki/PRISM_%28surveillance_program%29) for more details.)
-The US Government threatened Yahoo! with $250K daily fine if they didn't implement PRISM.
-Source: [Ars Technica](http://arstechnica.com/tech-policy/2014/09/us-govt-threatened-yahoo-with-250k-daily-fine-if-it-didnt-use-prism/)
 
 * The NSA has requested to secretly modify court documents.
 Source: [Yahoo News](http://news.yahoo.com/nsa-tried-delete-court-transcript-lawsuit-over-deleting-162014074.html)
