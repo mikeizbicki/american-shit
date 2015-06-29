@@ -59,6 +59,7 @@ Source: [The Atlantic](http://www.theatlantic.com/politics/archive/2014/10/congr
 Source: [First Look](https://firstlook.org/theintercept/2014/10/07/panetta-says-rahm-emanuel-cussed-cooperating-senate-torture-inquiry/)
 
 * Major technology companies repeatedly take stances against government surveillance.
+For example:
 
     * Twitter moves data servers from the US to Iceland so they don't have to comply with US secret warrants.
     Source: [Beta News](http://betanews.com/2015/04/17/twitter-moves-non-us-accounts-to-ireland-away-from-the-nsa/)
@@ -645,6 +646,8 @@ Source: [The Guardian](http://www.theguardian.com/us-news/2015/apr/17/missouri-n
 <!--
 * Drone technology percolates down to local law enforcement agencies.
 http://rt.com/usa/182048-drone-demonstration-lapd-police/
+
+http://www.nytimes.com/2014/08/24/us/in-washington-second-thoughts-on-arming-police.html?hp&action=click&pgtype=Homepage&version=LedeSum&module=a-lede-package-region&region=lede-package&WT.nav=lede-package
 -->
 
 <!------------------------------------>
@@ -814,6 +817,8 @@ http://www.counterpunch.org/2014/06/05/empire-of-prisons/
 https://freejeremy.net/2014/10/20/jeremy-in-solitary-here-is-what-we-know/
 -->
 
+
+
 #### Chicago's Homan Square
 
 * Chicago police maintain a "black site" called Homan Square where citizens are detained without being charged for a crime.
@@ -898,6 +903,11 @@ This is their new product line (which they sell for less) to compete with lower-
 Source: [Technical analusis on an engineer's blog](http://mikebeauchamp.com/misc/sennheiser-hd-555-to-hd-595-mod/)
 
 * [The Secret Goldman Sachs Tapes](http://www.bloombergview.com/articles/2014-09-26/the-secret-goldman-sachs-tapes)
+
+
+<!--
+http://www.wcax.com/story/29380310/milk-glut-leads-to-dumping
+-->
 
 <!--
 Good story, but the writing's bad.  Is it machine generated?
@@ -1036,4 +1046,6 @@ http://www.theguardian.com/books/2015/feb/09/fbi-monitored-african-american-writ
 # Church
 
 http://news.yahoo.com/pope-says-communists-closet-christians-142947603.html
+
+http://www.nytimes.com/2014/12/07/us/in-seven-states-atheists-push-to-end-largely-forgotten-ban-.html?ref=todayspaper&_r=0
 -->
