@@ -111,23 +111,10 @@ Source: [First Look](https://firstlook.org/theintercept/article/2014/07/09/under
 
 #### Lies and half-truths told by government officials
 
-* The Justice Department lied to the Supreme Court about their surveillance programs.
-This caused the Supreme Court to dismiss the case.
-Snowden's released documents show that the Justice Department lied.
-Source: [The Guardian](http://www.theguardian.com/commentisfree/2014/may/17/government-lies-nsa-justice-department-supreme-court)
-
-* The NSA used to claim that they do not engage in industrial espionage.
-Snowden documents, however, reveal that they do.
-Source: [The Intercept](https://firstlook.org/theintercept/2014/09/05/us-governments-plans-use-economic-espionage-benefit-american-corporations/)
-
 * The Director of National Intelligence Jim Clapper told Congress in 2013 that the government does not collect information on millions of Americans.
 Snowden documents show that Clapper lied to Congress.
 Clapper is never charged with a crime, and his lawyer claims that he "forgot" the NSA did this.
 Source: [The Hill](http://thehill.com/policy/technology/241508-spy-head-had-absolutely-forgotten-about-nsa-program)
-
-* The NSA claimed that low-level staff like Edward Snowden wouldn't have access to the raw data of intercepts.
-This is wrong.
-Source: [Mother Jones](http://www.motherjones.com/kevin-drum/2014/07/nsa-said-edward-snowden-had-no-access-surveillance-intercepts-they-lied)
 
 * FBI Director Jim Comey claimed that the FBI does not engage in surveillance by reading emails without a court order.
 This is false.
@@ -136,6 +123,19 @@ Source: [Tech Dirt](https://www.techdirt.com/articles/20141019/07115528878/every
 * Senator Feinstein (D-CA) accused the CIA of spying on her staff members because they were investigating abuses in the CIA's enhanced interrogation program.
 CIA director John Brennan denied the spying, saying "Nothing could be further from the truth."
 Source: [The NYTimes](http://www.nytimes.com/2014/03/12/us/cia-accused-of-illegally-searching-computers-used-by-senate-committee.html?_r=1) wherein Brennan denies the espionage and a follow up [NYTimes article](http://www.nytimes.com/2014/08/01/world/senate-intelligence-commitee-cia-interrogation-report.html) revealing that the CIA did it
+
+* The NSA claimed that low-level staff like Edward Snowden wouldn't have access to the raw data of intercepts.
+This is wrong.
+Source: [Mother Jones](http://www.motherjones.com/kevin-drum/2014/07/nsa-said-edward-snowden-had-no-access-surveillance-intercepts-they-lied)
+
+* The Justice Department lied to the Supreme Court about their surveillance programs.
+This caused the Supreme Court to dismiss the case.
+Snowden's released documents show that the Justice Department lied.
+Source: [The Guardian](http://www.theguardian.com/commentisfree/2014/may/17/government-lies-nsa-justice-department-supreme-court)
+
+* The NSA used to claim that they do not engage in industrial espionage.
+Snowden documents, however, reveal that they do.
+Source: [The Intercept](https://firstlook.org/theintercept/2014/09/05/us-governments-plans-use-economic-espionage-benefit-american-corporations/)
 
 <!--
 No, NK didn't hack sony
