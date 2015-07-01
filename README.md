@@ -904,6 +904,10 @@ Source: [Technical analusis on an engineer's blog](http://mikebeauchamp.com/misc
 
 * [The Secret Goldman Sachs Tapes](http://www.bloombergview.com/articles/2014-09-26/the-secret-goldman-sachs-tapes)
 
+* Between 2005-2009, the tech companies Adobe, Apple, Google, Intel, Intuit, Pixar, Lucasfilm and eBay had illegal agreements that they would not hire each other's employees.
+Estimates suggest that employees of these companies lost $3 billion dollars due to the resulting lower wages.
+As a fine, these companies only had to repay $334 million.
+Wikipedia has a [great summary of the case](https://en.wikipedia.org/wiki/High-Tech_Employee_Antitrust_Litigation)
 
 <!--
 http://www.wcax.com/story/29380310/milk-glut-leads-to-dumping
@@ -1048,4 +1052,7 @@ http://www.theguardian.com/books/2015/feb/09/fbi-monitored-african-american-writ
 http://news.yahoo.com/pope-says-communists-closet-christians-142947603.html
 
 http://www.nytimes.com/2014/12/07/us/in-seven-states-atheists-push-to-end-largely-forgotten-ban-.html?ref=todayspaper&_r=0
+
+http://www.theatlantic.com/national/archive/2015/06/arson-churches-north-carolina-georgia/396881/
+http://www.huffingtonpost.com/2015/06/28/black-churches-fire_n_7681754.html?utm_content=buffer2c441&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
 -->
