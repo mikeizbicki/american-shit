@@ -736,6 +736,12 @@ Video evidence, however, shows the TSA officer is lying.
 The officer is not fired for his misconduct.
 Source: [Philly](http://articles.philly.com/2015-02-05/news/58800950_1_carry-on-bag-screener-terminal-b)
 
+* Police in Santa Ana, CA raid a pot shop.
+The police attempt to disable all the video cameras, but they forgot about one.
+The camera catches them: stealing the shop's inventory, discussing beating the customers, and discussing past DUI offenses.
+The police file a lawsuit that successfully prevents the footage from being used in an internal investigation because "without the recordings, there would have been no internal investigation of any officer."
+Source: [The Atlantic](http://www.theatlantic.com/politics/archive/2015/08/the-chutzpah-of-a-police-union-in-orange-county-california/400502/?single_page=true)
+
 <!----------------->
 
 #### Excessive punishment
