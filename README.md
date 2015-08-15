@@ -314,6 +314,11 @@ Source: [The Guardian](http://www.theguardian.com/us-news/2015/apr/13/former-bla
 * In 2011, a small team of US soldiers plead guilty to killing Afghan civilians for sport.
 Source: [The Guardian](http://www.theguardian.com/world/2011/mar/23/us-soldier-admits-killing-afghans)
 
+* After a firefight in the Iraqi town Ishaqi, US soldiers enter a house killing 11 residents (5 of which were children).
+Autopsies revealed that the residents were first handcuffed, then shot in the head.
+Missiles from overhead helicopters then later bomb the house.
+Source: [McClatchyDC](http://www.mcclatchydc.com/news/special-reports/article24696685.html)
+
 * In 2010, WikiLeaks released the [Afghan War Diary](https://www.wikileaks.org/wiki/Afghan_War_Diary,_2004-2010), a collection of classified military operations in Afghanistan.
 These reports detail a number of previously unknown civilian casualties caused by the recklessness of coalition troops and paramilitary forces.
 The Pentagon criticized WikiLeaks for releasing the documents without proper redaction.
